@@ -10,7 +10,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
   * [1. Books](#1-books)
   	* [Differential Geometry](#differential-geometry)
   * [2. Papers](#2-papers)
-    * [Acceleration](#acceleration)
+    * [Specific Geometries](#specific-geometries)
     </details>
 
 # 1. Books
