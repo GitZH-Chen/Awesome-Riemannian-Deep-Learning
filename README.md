@@ -22,6 +22,7 @@
       * [Riemannian Basic Layers](#riemannian-networks-on-general-geometries)
       * [Riemannian Generative Networks](#riemannian-networks-on-general-geometries)
     * [Applications in Euclidean Deep Learning](#)
+      * [High-order Pooling](#)
     </details>
 
 # 1. Books
