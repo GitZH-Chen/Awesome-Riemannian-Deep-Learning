@@ -6,8 +6,10 @@
   <summary><h2><b> Contents </b></h2></summary>
 
   * [1. Books](#1-books)
+    * [Topology](#topology)
   	* [Differential Geometry](#differential-geometry)
   	* [Riemannian Geometry](#riemannian-geometry)
+    * [Lie Groups](#lie-groups)
   	* [Riemannian Optimization](#riemannian-optimization)
   * [2. Papers](#2-papers)
   	* [Popular Manifolds](#popular-manifolds)
