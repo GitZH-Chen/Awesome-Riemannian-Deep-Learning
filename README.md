@@ -10,7 +10,11 @@
   	* [Riemannian Geometry](#riemannian-geometry)
   	* [Riemannian Optimization](#riemannian-optimization)
   * [2. Papers](#2-papers)
-    * [Specific Geometries](#specific-geometries)
+  	* [Popular Manifolds](#popular-manifolds)
+  		* Vector Manifolds
+  		* Matrix Manifolds 
+    * [Riemannian Networks on Specific Geometries](#riemannian-networks-on-specific-geometries)
+    * [Riemannian Networks on General Geometries](#riemannian-networks-on-general-geometries)
     </details>
 
 # 1. Books
@@ -29,7 +33,7 @@
 
 # 2. Papers
 
-## Specific Geometries
+## Riemannian Networks on Specific Geometries
 > Networks designed for specific gemetries. 
 
 
