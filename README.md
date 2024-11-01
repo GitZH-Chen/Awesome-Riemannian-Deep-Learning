@@ -1,5 +1,5 @@
-# Riemannian Deep Learning
-🌟 This repo contains papers, books, tutorials, and resources on Riemannian deep learning.
+# Awesome Riemannian Deep Learning
+🌟 This is an ongoing repo, containing resources on Riemannian deep learning.
 
 
 <details open>
