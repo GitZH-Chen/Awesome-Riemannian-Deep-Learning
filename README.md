@@ -9,7 +9,7 @@
     * [Topology](#topology)
   	* [Differential Geometry](#differential-geometry)
   	* [Riemannian Geometry](#riemannian-geometry)
-    * [Lie Groups](#lie-groups)
+    * [Lie Group](#lie-groups)
   	* [Riemannian Optimization](#riemannian-optimization)
   * [2. Papers](#2-papers)
   	* [Popular Manifolds](#popular-manifolds)
@@ -44,6 +44,7 @@
 1. [Riemannian Geometry](https://link.springer.com/book/9780817634902) Birkhäuser, 1992.
 2. [Introduction to Riemannian Manifolds](https://link.springer.com/book/10.1007/978-3-319-91755-9) Springer, 2018.
 2. [Riemannian Geometry](https://link.springer.com/book/10.1007/978-3-319-26654-1) Springer, 2006.
+
 ##  Lie Group
 1. [Lie Groups, Lie Algebras, and Representations](https://link.springer.com/book/10.1007/978-3-319-13467-3) Springer, 2015.
 2. [Naive Lie Theory](https://link.springer.com/book/10.1007/978-0-387-78214-0) Springer, 2008.
