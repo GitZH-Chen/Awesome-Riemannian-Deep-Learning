@@ -54,9 +54,9 @@
 2. [A Gyrovector Space Approach to Hyperbolic Geometry](https://link.springer.com/book/10.1007/978-3-031-02396-5) Springer, 2009.
 
 ##  Riemannian Optimization
-1. [Optimization Algorithms on Matrix Manifolds](https://press.princeton.edu/absil?srsltid=AfmBOorlfmgaTCzFeGcEDw9mxNrVvWMaKhY578kDlMOKlYY9D-G9ar3n) *Cambridge University Press*. 2023
+1. [Optimization Algorithms on Matrix Manifolds](https://press.princeton.edu/absil?srsltid=AfmBOorlfmgaTCzFeGcEDw9mxNrVvWMaKhY578kDlMOKlYY9D-G9ar3n) Cambridge University Press, 2023
 
-2. [An introduction to Optimization on smooth manifolds](https://www.nicolasboumal.net/book/) *Princeton University Press*. 2008.
+2. [An introduction to Optimization on smooth manifolds](https://www.nicolasboumal.net/book/) Princeton University Press, 2008.
 
 # 2. Papers
 
