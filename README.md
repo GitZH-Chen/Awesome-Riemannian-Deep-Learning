@@ -89,12 +89,13 @@
 - [Exploring the Enigma of Neural Dynamics Through A Scattering-Transform Mixer Landscape for Riemannian Manifold](https://arxiv.org/abs/2405.16357) ICML 2024
 - [Schur's Positive-Definite Network: Deep Learning in the SPD cone with structure](https://openreview.net/forum?id=v1B4aet9ct) ICLR 2025
 
-### EEG Applications
+### Neuroscience
 - [MAtt: A Manifold Attention Network for EEG Decoding](https://openreview.net/forum?id=YG4Dg7xtETg) NeurIPS 2022
 - [Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective from the Time-Frequency Analysis](https://arxiv.org/abs/2211.02641) TNNLS 2023
 - [Deep Optimal Transport for Domain Adaptation on SPD Manifolds](https://arxiv.org/abs/2201.05745) Arxiv 2024
 - [SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG](https://arxiv.org/abs/2206.01323) NeurIPS 2024
 - [Deep Geodesic Canonical Correlation Analysis for Covariance-Based Neuroimaging Data](https://openreview.net/forum?id=PnR1MNen7u) ICLR 2024
+- [GeoMind: A Geometric Neural Network of State Space Model for Understanding Brain Dynamics on Riemannian Manifold](https://openreview.net/forum?id=YZdc7mTq7I) Openreview 2025
 
 ## Grassmannian Neural Networks
 - [Building Deep Networks on Grassmann Manifolds](https://arxiv.org/abs/1611.05742) AAAI 2018
@@ -122,8 +123,6 @@
 - [SE (3) diffusion model with application to protein backbone generation](https://arxiv.org/abs/2302.02277) ICML 2023
 - [Scaling Riemannian Diffusion Models](https://arxiv.org/abs/2310.20030) NeurIPS 2023
 - [Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) ICLR 2024
-
-
 
 ## Applications in Euclidean Deep Learning
 
