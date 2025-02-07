@@ -124,7 +124,7 @@
 - [A Gyrovector Space Approach for Symmetric Positive Semi-definite Matrix Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870052.pdf) ECCV 2022
 - [The Gyro-Structure of Some Matrix Manifolds](https://openreview.net/forum?id=eyE9Fb2AvOT) NeurIPS 2022
 - [Building Neural Networks on Matrix Manifolds: A Gyrovector Space Approach](https://arxiv.org/abs/2305.04560) ICML 2023
-- [Matrix Manifold Neural Networks++](https://openreview.net/forum?id=30aSE3FB3L) iclr 2024
+- [Matrix Manifold Neural Networks++](https://openreview.net/forum?id=30aSE3FB3L) ICLR 2024
 - [A Lie Group Approach to Riemannian Batch Normalization](https://openreview.net/forum?id=okYdj8Ysru) ICLR 2024
 - [RMLR: Extending Multinomial Logistic Regression into General Geometries](https://arxiv.org/abs/2409.19433) NeurIPS 2024
 - [Gyrogroup Batch Normalization](https://openreview.net/forum?id=d1NWq4PjJW) ICLR 2025
