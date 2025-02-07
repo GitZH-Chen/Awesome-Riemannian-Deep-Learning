@@ -11,12 +11,19 @@
     * [Topology](#topology)
   	* [Differential Geometry](#differential-geometry)
   	* [Riemannian Geometry](#riemannian-geometry)
-    * [Lie Group](#lie-groups)
+    * [Lie Groups](#lie-groups)
     * [Riemannian Optimization](#riemannian-optimization)
   * [2. Papers](#2-papers)
     * [Popular Manifolds](#popular-manifolds)
+    * [Geometries](#geometries)
+      * [SPD Geometries](#spd-geometries)
+      * [Grassmannian](#grassmannian)
+      * [Lie Groups](#lie-groups)
     * [SPD Neural Networks](#spd-neural-networks)
+      * [Network Construction](#network-construction)
+      * [Neuroscience Applications](#neuroscience-applications)
     * [Grassmannian Neural Networks](#grassmannian-neural-networks)
+    * [Lie Group Neural Networks](#lie-group-neural-networks)
     * [Constant Curvature Neural Networks](#constant-curvature-neural-networks)
     * [Riemannian Networks on General Geometries](#riemannian-networks-on-general-geometries)
     * [Riemannian Generative Networks](#riemannian-generative-networks)
@@ -97,7 +104,7 @@
 - [Exploring the Enigma of Neural Dynamics Through A Scattering-Transform Mixer Landscape for Riemannian Manifold](https://arxiv.org/abs/2405.16357) ICML 2024
 - [Schur's Positive-Definite Network: Deep Learning in the SPD cone with structure](https://openreview.net/forum?id=v1B4aet9ct) ICLR 2025
 
-### Neuroscience
+### Neuroscience Applications
 - [MAtt: A Manifold Attention Network for EEG Decoding](https://openreview.net/forum?id=YG4Dg7xtETg) NeurIPS 2022
 - [Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective from the Time-Frequency Analysis](https://arxiv.org/abs/2211.02641) TNNLS 2023
 - [Deep Optimal Transport for Domain Adaptation on SPD Manifolds](https://arxiv.org/abs/2201.05745) Arxiv 2024
