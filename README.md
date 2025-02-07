@@ -1,6 +1,7 @@
 # Awesome Riemannian Deep Learning
-🌟 This is an ongoing repo, containing resources on Riemannian deep learning.
+🌟 This is an ongoing repo, containing resources on Riemannian deep learning. Any suggestions are welcome! 🚀
 
+This repo does not inlcude Riemannian optimization. Interested readers can refer to [Awesome-Riemannian-Optimization](https://github.com/andyjm3/Awesome-Riemannian-Optimization) by Andi Han.
 
 <details open>
   <summary><h2><b> Contents </b></h2></summary>
