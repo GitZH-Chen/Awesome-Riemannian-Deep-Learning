@@ -17,9 +17,9 @@
     * [Grassmannian Neural Networks](#grassmannian-neural-networks)
     * [Constant Curvature Neural Networks](#constant-curvature-neural-networks)
     * [Riemannian Networks on General Geometries](#riemannian-networks-on-general-geometries)
-    * [Riemannian Generative Networks](#riemannian-networks-on-general-geometries)
-    * [Applications in Euclidean Deep Learning](#)
-      * [High-order Pooling](#)
+    * [Riemannian Generative Networks](#riemannian-generative-networks)
+    * [Applications in Euclidean Deep Learning](#applications-in-euclidean-deep-learning)
+      * [High-order Pooling](#high-order-pooling)
 
       </details>
 
