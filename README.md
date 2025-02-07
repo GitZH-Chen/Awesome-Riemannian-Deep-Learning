@@ -54,6 +54,21 @@
 
 ## Popular Manifolds
 > An overview can be found in https://www.manopt.org/manifolds.html
+## Geometries
+
+### SPD Geometries
+- [Fast and Simple Computations on Tensors with Log-Euclidean Metrics](https://inria.hal.science/inria-00070423/document) Reaserch Report 2005
+- [A Riemannian framework for tensor computing](https://link.springer.com/article/10.1007/s11263-005-3222-z) IJCV 2006
+- [Power Euclidean metrics for covariance matrices with application to diffusion tensor imaging](https://arxiv.org/abs/1009.3045) Arxiv 2010
+- [Riemannian geometry of symmetric positive definite matrices via Cholesky decomposition](https://doi.org/10.1137/18M1221084) SIMAX 2019
+- [On the Bures–Wasserstein distance between positive definite matrices](https://doi.org/10.1016/j.exmath.2018.01.002) Expositiones Mathematicae 2019
+- [The geometry of mixed-Euclidean metrics on symmetric positive definite matrices](https://doi.org/10.1016/j.difgeo.2022.101867) Differential Geometry and its Applications 2022
+- [O (n)-invariant Riemannian metrics on SPD matrices](https://doi.org/10.1016/j.laa.2022.12.009) Linear Algebra and its Applications 2023
+- [Learning with symmetric positive definite matrices via generalized Bures-Wasserstein geometry](https://doi.org/10.1007/978-3-031-38271-0_40) GSI 2023
+
+### Grassmannian
+- [The Geometry of Algorithms with Orthogonality Constraints](https://doi.org/10.1137/S0895479895290954) SIMAX 1998
+- [A Grassmann Manifold Handbook: Basic Geometry and Computational Aspects](https://arxiv.org/abs/2011.13699) Advances in Computational Mathematics 2024
 
 ## SPD Neural Networks
 ### Network Construction
@@ -99,5 +114,9 @@
 ## Applications in Euclidean Deep Learning
 
 ### High-order Pooling
+- [Kernel Pooling for Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Kernel_Pooling_for_CVPR_2017_paper.html) CVPR 2017
 - [Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization](https://arxiv.org/abs/1712.01034) CVPR 2018
+- [DeepKSPD: Learning Kernel-matrix-based SPD  Representation for Fine-grained Image Recognition] ECCV 2018
 - [Deep CNNs Meet Global Covariance Pooling: Better Representation and Generalization](https://arxiv.org/abs/1904.06836) TPAMI 2020
+- [Learning partial correlation based deep visual representation for image classification](https://arxiv.org/abs/2304.11597) CVPR 2023
+- [Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry](https://openreview.net/forum?id=q1t0Lmvhty) ICLR 2025
