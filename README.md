@@ -25,26 +25,27 @@
 
 # 1 Books
 ##  Topology
-1. [Basic Topology](https://link.springer.com/book/10.1007/978-1-4757-1793-8) Springer,1983.
-2. [Topology](http://www.alefenu.com/libri/topologymunkres.pdf) Pearson, 2000.
+- [Basic Topology](https://link.springer.com/book/10.1007/978-1-4757-1793-8) Springer,1983.
+- [Topology](http://www.alefenu.com/libri/topologymunkres.pdf) Pearson, 2000.
 
 ##  Differential Geometry
-1. [An Introduction to Manifolds](https://link.springer.com/book/10.1007/978-1-4419-7400-6) Springer, 2011.
-2. [Introduction to Smooth Manifolds](https://link.springer.com/book/10.1007/978-1-4419-9982-5) Springer, 2012.
+- [An Introduction to Manifolds](https://link.springer.com/book/10.1007/978-1-4419-7400-6) Springer, 2011. 
+- [Introduction to Smooth Manifolds](https://link.springer.com/book/10.1007/978-1-4419-9982-5) Springer, 2012.
 
 
 ##  Riemannian Geometry
-1. [Riemannian Geometry](https://link.springer.com/book/9780817634902) Birkhäuser, 1992.
-2. [Introduction to Riemannian Manifolds](https://link.springer.com/book/10.1007/978-3-319-91755-9) Springer, 2018.
-2. [Riemannian Geometry](https://link.springer.com/book/10.1007/978-3-319-26654-1) Springer, 2006.
+- [Riemannian Geometry](https://link.springer.com/book/9780817634902) Birkhäuser, 1992.
+- [Introduction to Riemannian Manifolds](https://link.springer.com/book/10.1007/978-3-319-91755-9) Springer, 2018.
+- [Riemannian Geometry](https://link.springer.com/book/10.1007/978-3-319-26654-1) Springer, 2006.
 
 ##  Lie Groups
-1. [Lie Groups, Lie Algebras, and Representations](https://link.springer.com/book/10.1007/978-3-319-13467-3) Springer, 2015.
-2. [Naive Lie Theory](https://link.springer.com/book/10.1007/978-0-387-78214-0) Springer, 2008.
+- [Naive Lie Theory](https://link.springer.com/book/10.1007/978-0-387-78214-0) Springer, 2008.
+- [Lie Groups, Lie Algebras, and Representations](https://link.springer.com/book/10.1007/978-3-319-13467-3) Springer, 2015.
+- [A mathematical introduction to robotic manipulation](https://doi.org/10.1201/9781315136370)
 
 ##  Hyperbolic Geometry
-1. [Hyperbolic Geometry](https://www.math.ucdavis.edu/~kapovich/RFG/cannon.pdf)
-2. [A Gyrovector Space Approach to Hyperbolic Geometry](https://link.springer.com/book/10.1007/978-3-031-02396-5) Springer, 2009.
+- [Hyperbolic Geometry](https://www.math.ucdavis.edu/~kapovich/RFG/cannon.pdf) 
+- [A Gyrovector Space Approach to Hyperbolic Geometry](https://link.springer.com/book/10.1007/978-3-031-02396-5) Springer, 2009.
 
 ##  Riemannian Optimization
 1. [Optimization Algorithms on Matrix Manifolds](https://press.princeton.edu/absil?srsltid=AfmBOorlfmgaTCzFeGcEDw9mxNrVvWMaKhY578kDlMOKlYY9D-G9ar3n) Cambridge University Press, 2023
@@ -75,6 +76,11 @@
 - [The Geometry of Algorithms with Orthogonality Constraints](https://doi.org/10.1137/S0895479895290954) SIMAX 1998
 - [A Grassmann Manifold Handbook: Basic Geometry and Computational Aspects](https://arxiv.org/abs/2011.13699) Advances in Computational Mathematics 2024
 
+### Lie Groups
+- [Left-Invariant Riemannian Geodesics on Spatial Transformation Groups](https://epubs.siam.org/doi/10.1137/130928352) SIIMS 2014
+- [Optimal Transport on the Lie Group of Roto-translations](https://arxiv.org/abs/2402.15322) SIIMS 2024
+
+
 ## SPD Neural Networks
 ### Network Construction
 - [A Riemannian Network for SPD Matrix Learning](https://arxiv.org/abs/1608.04233) AAAI 2017
@@ -100,6 +106,12 @@
 ## Grassmannian Neural Networks
 - [Building Deep Networks on Grassmann Manifolds](https://arxiv.org/abs/1611.05742) AAAI 2018
 - [A Grassmannian Manifold Self-Attention Network for Signal Classification](https://www.ijcai.org/proceedings/2024/564) IJCAI 2024
+
+## Lie Group Neural Networks
+- [Rotation Averaging](https://doi.org/10.1007/s11263-012-0601-0) IJCV 2013
+- [Human Action Recognition by Representing 3D Skeletons as Points in a Lie Group](https://ieeexplore.ieee.org/document/6909476) CVPR 2014
+- [Rolling rotations for recognizing human actions from 3d skeletal data](https://ieeexplore.ieee.org/document/7780853) CVPR 2016
+- [Deep Learning on Lie Groups for Skeleton-based Action Recognition](https://arxiv.org/abs/1612.05877) CVPR 2017
 
 ## Constant Curvature Neural Networks
 
