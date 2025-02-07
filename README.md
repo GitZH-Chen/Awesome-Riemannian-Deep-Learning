@@ -143,5 +143,8 @@
 - [Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization](https://arxiv.org/abs/1712.01034) CVPR 2018
 - [DeepKSPD: Learning Kernel-matrix-based SPD  Representation for Fine-grained Image Recognition](https://doi.org/10.1007/978-3-030-01216-8_38) ECCV 2018
 - [Deep CNNs Meet Global Covariance Pooling: Better Representation and Generalization](https://arxiv.org/abs/1904.06836) TPAMI 2020
+- [Orthogonal SVD Covariance Conditioning and Latent Disentanglement](https://ieeexplore.ieee.org/abstract/document/9983471) TPAMI 2022
+- [Fast Differentiable Matrix Square Root and Inverse Square Root](https://ieeexplore.ieee.org/abstract/document/9926140) TPAMI 2022
+- [On the Eigenvalues of Global Covariance Pooling for Fine-grained Visual Recognition](https://ieeexplore.ieee.org/abstract/document/9785385) TPAMI 2022
 - [Learning partial correlation based deep visual representation for image classification](https://arxiv.org/abs/2304.11597) CVPR 2023
 - [Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry](https://openreview.net/forum?id=q1t0Lmvhty) ICLR 2025
