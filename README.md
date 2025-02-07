@@ -1,4 +1,4 @@
-# Awesome Riemannian Deep Learning
+# Riemannian Learning: Theoreies, Models, and Applications
 🚀 This is an ongoing repo, containing resources on Riemannian deep learning.
 
 🌟 **Note:** This repo does not inlcude Riemannian optimization. For that, please refer to [Awesome-Riemannian-Optimization](https://github.com/andyjm3/Awesome-Riemannian-Optimization) by [Andi Han](https://scholar.google.com/citations?user=AKHQHs0AAAAJ&hl=en).
