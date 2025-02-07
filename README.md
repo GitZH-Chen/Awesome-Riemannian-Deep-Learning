@@ -68,6 +68,8 @@
 - [Learning with symmetric positive definite matrices via generalized Bures-Wasserstein geometry](https://doi.org/10.1007/978-3-031-38271-0_40) GSI 2023
 - [Adaptive Log-Euclidean Metrics for SPD Matrix Learning](https://arxiv.org/abs/2303.15477) TIP 2024
 - [Product Geometries on Cholesky Manifolds with Applications to SPD Manifolds](https://arxiv.org/abs/2407.02607) Arxiv 2024
+- [Wrapped Gaussian on the manifold of Symmetric Positive Definite Matrices](https://arxiv.org/abs/2502.01512) Arxiv 2025
+- [A Riemannian covariance for manifold-valued data](https://arxiv.org/abs/2410.06164) Arxiv 2025
 
 ### Grassmannian
 - [The Geometry of Algorithms with Orthogonality Constraints](https://doi.org/10.1137/S0895479895290954) SIMAX 1998
@@ -113,6 +115,15 @@
 - [RMLR: Extending Multinomial Logistic Regression into General Geometries](https://arxiv.org/abs/2409.19433) NeurIPS 2024
 - [Gyrogroup Batch Normalization](https://openreview.net/forum?id=d1NWq4PjJW) ICLR 2025
 - [Neural Networks on Symmetric Spaces of Noncompact Type](https://openreview.net/forum?id=bwOndfohRK&noteId=XBiz6RG96t) ICLR 2025
+
+## Riemannian Generative Networks
+- [Riemannian score-based generative modelling](https://arxiv.org/abs/2202.02763) NeurIPS 2022
+- [Riemannian Diffusion Models](https://openreview.net/forum?id=ecevn9kPm4) NeurIPS 2022
+- [SE (3) diffusion model with application to protein backbone generation](https://arxiv.org/abs/2302.02277) ICML 2023
+- [Scaling Riemannian Diffusion Models](https://arxiv.org/abs/2310.20030) NeurIPS 2023
+- [Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) ICLR 2024
+
+
 
 ## Applications in Euclidean Deep Learning
 
