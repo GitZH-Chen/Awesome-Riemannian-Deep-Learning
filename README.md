@@ -83,6 +83,9 @@
 ## Constant Curvature Neural Networks
 
 ## Riemannian Networks on General Geometries
+- [Dilated Convolutional Neural Networks for Sequential Manifold-valued Data](https://arxiv.org/abs/1910.02206) ICCV 2019
+- [ManifoldNet: A Deep Neural Network for Manifold-Valued Data With Applications](https://ieeexplore.ieee.org/document/9122448) TPAMI 2020
+- [ManifoldNorm: Extending normalizations on Riemannian Manifolds](https://arxiv.org/abs/2003.13869) Arxiv 2020
 - [Computationally Tractable Riemannian Manifolds for Graph Embeddings](https://doi.org/10.1609/aaai.v35i8.16877) AAAI 2021
 - [A Gyrovector Space Approach for Symmetric Positive Semi-definite Matrix Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870052.pdf) ECCV 2022
 - [The Gyro-Structure of Some Matrix Manifolds](https://openreview.net/forum?id=eyE9Fb2AvOT) NeurIPS 2022
@@ -94,3 +97,7 @@
 - [Neural Networks on Symmetric Spaces of Noncompact Type](https://openreview.net/forum?id=bwOndfohRK&noteId=XBiz6RG96t) ICLR 2025
 
 ## Applications in Euclidean Deep Learning
+
+### High-order Pooling
+- [Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization](https://arxiv.org/abs/1712.01034) CVPR 2018
+- [Deep CNNs Meet Global Covariance Pooling: Better Representation and Generalization](https://arxiv.org/abs/1904.06836) TPAMI 2020
