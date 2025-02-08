@@ -127,8 +127,10 @@
 - [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) NeurIPS 2019
 - [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892) NeurIPS 2019
 - [Mixed-curvature Variational Autoencoders](https://openreview.net/forum?id=S1g6xeSKDS) ICLR 2020
+- [Differentiating through the Fréchet Mean](https://arxiv.org/abs/2003.00335) ICML 2020
 - [Hyperbolic Neural Networks++](https://arxiv.org/abs/2006.08210) ICLR 2021
 - [Poincaré ResNet](https://arxiv.org/abs/2303.14027) ICCV 2023
+- [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh) ICLR 2024
 - [Lorentzian Residual Neural Networks](https://arxiv.org/abs/2412.14695) KDD 2025
 - [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0) ICLR 2025
 - [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV) ICLR 2025
@@ -141,6 +143,7 @@
 - [A Gyrovector Space Approach for Symmetric Positive Semi-definite Matrix Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870052.pdf) ECCV 2022
 - [The Gyro-Structure of Some Matrix Manifolds](https://openreview.net/forum?id=eyE9Fb2AvOT) NeurIPS 2022
 - [Building Neural Networks on Matrix Manifolds: A Gyrovector Space Approach](https://arxiv.org/abs/2305.04560) ICML 2023
+- [Riemannian Residual Neural Networks](https://arxiv.org/abs/2310.10013) NeurIPS 2023
 - [Matrix Manifold Neural Networks++](https://openreview.net/forum?id=30aSE3FB3L) ICLR 2024
 - [A Lie Group Approach to Riemannian Batch Normalization](https://openreview.net/forum?id=okYdj8Ysru) ICLR 2024
 - [RMLR: Extending Multinomial Logistic Regression into General Geometries](https://arxiv.org/abs/2409.19433) NeurIPS 2024
