@@ -126,6 +126,7 @@
 - [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112) NeurIPS 2018
 - [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) NeurIPS 2019
 - [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892) NeurIPS 2019
+- [Mixed-curvature Variational Autoencoders](https://openreview.net/forum?id=S1g6xeSKDS) ICLR 2020
 - [Hyperbolic Neural Networks++](https://arxiv.org/abs/2006.08210) ICLR 2021
 - [Poincaré ResNet](https://arxiv.org/abs/2303.14027) ICCV 2023
 - [Lorentzian Residual Neural Networks](https://arxiv.org/abs/2412.14695) KDD 2025
