@@ -123,7 +123,15 @@
 - [Deep Learning on Lie Groups for Skeleton-based Action Recognition](https://arxiv.org/abs/1612.05877) CVPR 2017
 
 ## Constant Curvature Neural Networks
-
+- [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112) NeurIPS 2018
+- [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) NeurIPS 2019
+- [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892) NeurIPS 2019
+- [Hyperbolic Neural Networks++](https://arxiv.org/abs/2006.08210) ICLR 2021
+- [Poincaré ResNet](https://arxiv.org/abs/2303.14027) ICCV 2023
+- [Lorentzian Residual Neural Networks](https://arxiv.org/abs/2412.14695) KDD 2025
+- [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0) ICLR 2025
+- [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV) ICLR 2025
+- 
 ## Riemannian Networks on General Geometries
 - [Dilated Convolutional Neural Networks for Sequential Manifold-valued Data](https://arxiv.org/abs/1910.02206) ICCV 2019
 - [ManifoldNet: A Deep Neural Network for Manifold-Valued Data With Applications](https://ieeexplore.ieee.org/document/9122448) TPAMI 2020
