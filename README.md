@@ -123,18 +123,23 @@
 - [Deep Learning on Lie Groups for Skeleton-based Action Recognition](https://arxiv.org/abs/1612.05877) CVPR 2017
 
 ## Constant Curvature Neural Networks
+- [Hyperbolic entailment cones for learning hierarchical embeddings](https://proceedings.mlr.press/v80/ganea18a.html) ICML 2018
 - [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/abs/1806.03417) ICML 2018
 - [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112) NeurIPS 2018
-- [Hyperbolic entailment cones for learning hierarchical embeddings](https://proceedings.mlr.press/v80/ganea18a.html) ICML 2018
-- [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) NeurIPS 2019
 - [Poincaré GloVe: Hyperbolic Word Embeddings](https://openreview.net/forum?id=Ske5r3AqK7)  ICLR 2019
+- [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ) ICLR 2019
+- [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) NeurIPS 2019
 - [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892) NeurIPS 2019
+- [Continuous Hierarchical Representations with Poincaré Variational Auto-Encoders](https://arxiv.org/abs/1901.06033) NeurIPS 2019
 - [Mixed-curvature Variational Autoencoders](https://openreview.net/forum?id=S1g6xeSKDS) ICLR 2020
+- [Hyperbolic Neural Networks++](https://arxiv.org/abs/2006.08210) ICLR 2021
 - [Differentiating through the Fréchet Mean](https://arxiv.org/abs/2003.00335) ICML 2020
 - [Constant Curvature Graph Convolutional Networks](https://arxiv.org/abs/1911.05076) ICML 2020
-- [Hyperbolic Neural Networks++](https://arxiv.org/abs/2006.08210) ICLR 2021
+- [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](https://arxiv.org/pdf/2104.06942) CVPR 2021
+- [Curvature Generation in Hyperbolic Spaces for Few-Shot Learning](https://ieeexplore.ieee.org/document/9711172) ICCV 2021
 - [Fully Hyperbolic Neural Networks](https://arxiv.org/abs/2105.14686) ACL 2022
 - [Nested hyperbolic spaces for dimensionality reduction and hyperbolic nn design](https://arxiv.org/abs/2112.03402) CVPR 2022
+- [Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds](https://openreview.net/forum?id=yoLGaLPEPo) NeurIPS 2022
 - [Poincaré ResNet](https://arxiv.org/abs/2303.14027) ICCV 2023
 - [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh) ICLR 2024
 - [Hyperbolic Geometric Latent Diffusion Model for Graph Generation](https://arxiv.org/abs/2405.03188) ICML 2024
