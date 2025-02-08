@@ -124,11 +124,16 @@
 
 ## Constant Curvature Neural Networks
 - [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112) NeurIPS 2018
+- [Hyperbolic entailment cones for learning hierarchical embeddings](https://proceedings.mlr.press/v80/ganea18a.html) ICML 2018
 - [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) NeurIPS 2019
+- [Poincaré GloVe: Hyperbolic Word Embeddings](https://openreview.net/forum?id=Ske5r3AqK7)  ICLR 2019
 - [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892) NeurIPS 2019
 - [Mixed-curvature Variational Autoencoders](https://openreview.net/forum?id=S1g6xeSKDS) ICLR 2020
 - [Differentiating through the Fréchet Mean](https://arxiv.org/abs/2003.00335) ICML 2020
+- [Constant Curvature Graph Convolutional Networks](https://arxiv.org/abs/1911.05076) ICML 2020
 - [Hyperbolic Neural Networks++](https://arxiv.org/abs/2006.08210) ICLR 2021
+- [Fully Hyperbolic Neural Networks](https://arxiv.org/abs/2105.14686) ACL 2022
+- [Nested hyperbolic spaces for dimensionality reduction and hyperbolic nn design](https://arxiv.org/abs/2112.03402) CVPR 2022
 - [Poincaré ResNet](https://arxiv.org/abs/2303.14027) ICCV 2023
 - [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh) ICLR 2024
 - [Lorentzian Residual Neural Networks](https://arxiv.org/abs/2412.14695) KDD 2025
