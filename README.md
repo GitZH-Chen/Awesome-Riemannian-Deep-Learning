@@ -154,8 +154,10 @@
 - [Riemannian score-based generative modelling](https://arxiv.org/abs/2202.02763) NeurIPS 2022
 - [Riemannian Diffusion Models](https://openreview.net/forum?id=ecevn9kPm4) NeurIPS 2022
 - [SE (3) diffusion model with application to protein backbone generation](https://arxiv.org/abs/2302.02277) ICML 2023
+- [Exploring Data Geometry for Continual Learning](https://arxiv.org/abs/2304.03931) CVPR 2023
 - [Scaling Riemannian Diffusion Models](https://arxiv.org/abs/2310.20030) NeurIPS 2023
 - [Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) ICLR 2024
+
 
 ## Applications in Euclidean Deep Learning
 
