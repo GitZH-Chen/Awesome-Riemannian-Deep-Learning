@@ -25,6 +25,7 @@
     * [Grassmannian Neural Networks](#grassmannian-neural-networks)
     * [Lie Group Neural Networks](#lie-group-neural-networks)
     * [Constant Curvature Neural Networks](#constant-curvature-neural-networks)
+    * [Hybrid Riemannian Neural Networks](#hybrid-riemannian-neural-networks)
     * [Riemannian Networks on General Geometries](#riemannian-networks-on-general-geometries)
     * [Riemannian Generative Networks](#riemannian-generative-networks)
     * [Applications in Euclidean Deep Learning](#applications-in-euclidean-deep-learning)
@@ -146,7 +147,10 @@
 - [Lorentzian Residual Neural Networks](https://arxiv.org/abs/2412.14695) KDD 2025
 - [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0) ICLR 2025
 - [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV) ICLR 2025
-- 
+
+## Hybrid Riemannian Neural Networks
+- [RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](https://arxiv.org/abs/2502.03251) WWW 2025
+
 ## Riemannian Networks on General Geometries
 - [Dilated Convolutional Neural Networks for Sequential Manifold-valued Data](https://arxiv.org/abs/1910.02206) ICCV 2019
 - [ManifoldNet: A Deep Neural Network for Manifold-Valued Data With Applications](https://ieeexplore.ieee.org/document/9122448) TPAMI 2020
