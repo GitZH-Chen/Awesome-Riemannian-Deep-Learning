@@ -165,6 +165,7 @@
 - [RMLR: Extending Multinomial Logistic Regression into General Geometries](https://arxiv.org/abs/2409.19433) NeurIPS 2024
 - [Gyrogroup Batch Normalization](https://openreview.net/forum?id=d1NWq4PjJW) ICLR 2025
 - [Neural Networks on Symmetric Spaces of Noncompact Type](https://openreview.net/forum?id=bwOndfohRK&noteId=XBiz6RG96t) ICLR 2025
+- [GyroAtt: A Gyro Attention Framework for Matrix Manifolds](https://openreview.net/forum?id=YcaFqY8LWD) Openreview 2025
 
 ## Riemannian Generative Networks
 - [Riemannian score-based generative modelling](https://arxiv.org/abs/2202.02763) NeurIPS 2022
