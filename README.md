@@ -174,6 +174,7 @@
 - [Exploring Data Geometry for Continual Learning](https://arxiv.org/abs/2304.03931) CVPR 2023
 - [Scaling Riemannian Diffusion Models](https://arxiv.org/abs/2310.20030) NeurIPS 2023
 - [Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) ICLR 2024
+- [Generative Modeling on Lie Groups via Euclidean Generalized Score Matching](https://arxiv.org/abs/2502.02513) Arxiv 2025
 
 
 ## Applications in Euclidean Deep Learning
