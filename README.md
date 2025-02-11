@@ -112,7 +112,7 @@
 - [SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG](https://arxiv.org/abs/2206.01323) NeurIPS 2024
 - [Deep Geodesic Canonical Correlation Analysis for Covariance-Based Neuroimaging Data](https://openreview.net/forum?id=PnR1MNen7u) ICLR 2024
 - [GeoMind: A Geometric Neural Network of State Space Model for Understanding Brain Dynamics on Riemannian Manifold](https://openreview.net/forum?id=YZdc7mTq7I) Openreview 2025
-
+- [SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG](https://openreview.net/forum?id=CoQw1dXtGb) ICLR 2025
 ## Grassmannian Neural Networks
 - [Building Deep Networks on Grassmann Manifolds](https://arxiv.org/abs/1611.05742) AAAI 2018
 - [A Grassmannian Manifold Self-Attention Network for Signal Classification](https://www.ijcai.org/proceedings/2024/564) IJCAI 2024
