@@ -25,7 +25,7 @@
     * [Grassmannian Neural Networks](#grassmannian-neural-networks)
     * [Lie Group Neural Networks](#lie-group-neural-networks)
     * [Constant Curvature Neural Networks](#constant-curvature-neural-networks)
-    * [Hybrid Riemannian Neural Networks](#hybrid-riemannian-neural-networks)
+    * [Riemannian Graph Neural Networks](#riemannian-graph-neural-networks)
     * [Riemannian Networks on General Geometries](#riemannian-networks-on-general-geometries)
     * [Riemannian Generative Networks](#riemannian-generative-networks)
     * [Applications in Euclidean Deep Learning](#applications-in-euclidean-deep-learning)
@@ -98,7 +98,6 @@
 - [GeomNet: A Neural Network Based on Riemannian Geometries of SPD Matrix Space and Cholesky Space for 3D Skeleton-Based Interaction Recognition](https://arxiv.org/abs/2111.13089) ICCV 2021
 - [Neural Architecture Search of SPD Manifold Networks](https://arxiv.org/abs/2010.14535) IJCAI 2021
 - [Vector-valued Distance and Gyrocalculus on the Space of Symmetric Positive Definite Matrices](https://arxiv.org/abs/2110.13475) NeurIPS 2021
-- [Modeling Graphs Beyond Hyperbolic: Graph Neural Networks in Symmetric Positive Definite Matrices](https://arxiv.org/abs/2306.14064) ECML 2023
 - [Riemannian Local Mechanism for SPD Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/25867) AAAI 2023
 - [SPD Manifold Deep Metric Learning for Image Set Classification](https://ieeexplore.ieee.org/document/10467142) TNNLS 2024
 - [Riemannian Multinomial Logistics Regression for SPD Neural Networks](https://arxiv.org/abs/2305.11288) CVPR 2024
@@ -107,12 +106,12 @@
 
 ### Neuroscience Applications
 - [MAtt: A Manifold Attention Network for EEG Decoding](https://openreview.net/forum?id=YG4Dg7xtETg) NeurIPS 2022
-- [Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective from the Time-Frequency Analysis](https://arxiv.org/abs/2211.02641) TNNLS 2023
 - [Deep Optimal Transport for Domain Adaptation on SPD Manifolds](https://arxiv.org/abs/2201.05745) Arxiv 2024
 - [SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG](https://arxiv.org/abs/2206.01323) NeurIPS 2024
 - [Deep Geodesic Canonical Correlation Analysis for Covariance-Based Neuroimaging Data](https://openreview.net/forum?id=PnR1MNen7u) ICLR 2024
 - [GeoMind: A Geometric Neural Network of State Space Model for Understanding Brain Dynamics on Riemannian Manifold](https://openreview.net/forum?id=YZdc7mTq7I) Openreview 2025
 - [SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG](https://openreview.net/forum?id=CoQw1dXtGb) ICLR 2025
+
 ## Grassmannian Neural Networks
 - [Building Deep Networks on Grassmann Manifolds](https://arxiv.org/abs/1611.05742) AAAI 2018
 - [A Grassmannian Manifold Self-Attention Network for Signal Classification](https://www.ijcai.org/proceedings/2024/564) IJCAI 2024
@@ -129,33 +128,41 @@
 - [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112) NeurIPS 2018
 - [Poincaré GloVe: Hyperbolic Word Embeddings](https://openreview.net/forum?id=Ske5r3AqK7)  ICLR 2019
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ) ICLR 2019
-- [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) NeurIPS 2019
-- [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892) NeurIPS 2019
 - [Continuous Hierarchical Representations with Poincaré Variational Auto-Encoders](https://arxiv.org/abs/1901.06033) NeurIPS 2019
 - [Mixed-curvature Variational Autoencoders](https://openreview.net/forum?id=S1g6xeSKDS) ICLR 2020
 - [Hyperbolic Neural Networks++](https://arxiv.org/abs/2006.08210) ICLR 2021
 - [Differentiating through the Fréchet Mean](https://arxiv.org/abs/2003.00335) ICML 2020
-- [Constant Curvature Graph Convolutional Networks](https://arxiv.org/abs/1911.05076) ICML 2020
-- [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](https://arxiv.org/pdf/2104.06942) CVPR 2021
 - [Curvature Generation in Hyperbolic Spaces for Few-Shot Learning](https://ieeexplore.ieee.org/document/9711172) ICCV 2021
 - [Fully Hyperbolic Neural Networks](https://arxiv.org/abs/2105.14686) ACL 2022
 - [Nested hyperbolic spaces for dimensionality reduction and hyperbolic nn design](https://arxiv.org/abs/2112.03402) CVPR 2022
 - [Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds](https://openreview.net/forum?id=yoLGaLPEPo) NeurIPS 2022
 - [Poincaré ResNet](https://arxiv.org/abs/2303.14027) ICCV 2023
 - [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh) ICLR 2024
-- [Hyperbolic Geometric Latent Diffusion Model for Graph Generation](https://arxiv.org/abs/2405.03188) ICML 2024
 - [Lorentzian Residual Neural Networks](https://arxiv.org/abs/2412.14695) KDD 2025
 - [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0) ICLR 2025
 - [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV) ICLR 2025
 
-## Hybrid Riemannian Neural Networks
+## Riemannian Graph Neural Networks
+- [Computationally Tractable Riemannian Manifolds for Graph Embeddings](https://doi.org/10.1609/aaai.v35i8.16877) AAAI 2021
+- [Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective from the Time-Frequency Analysis](https://arxiv.org/abs/2211.02641) TNNLS 2023
+- [Modeling Graphs Beyond Hyperbolic: Graph Neural Networks in Symmetric Positive Definite Matrices](https://arxiv.org/abs/2306.14064) ECML 2023
+
+- [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) NeurIPS 2019
+- [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892) NeurIPS 2019
+- [Constant Curvature Graph Convolutional Networks](https://arxiv.org/abs/1911.05076) ICML 2020
+- [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](https://arxiv.org/pdf/2104.06942) CVPR 2021
+- [LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering](https://arxiv.org/abs/2405.11801) ICML 2024
+- [Spiking Graph Neural Network on Riemannian Manifolds](https://arxiv.org/abs/2410.17941) NeurIPS 2024
+- [A Mixed-Curvature Graph Diffusion Model](https://dl.acm.org/doi/abs/10.1145/3627673.3679708?casa_token=AeZEppU7riIAAAAA:cie2_B_3MR3ut6RmJ1oHBxb85_6OP4g1HF3vXLLdzjqNLI8usy2i7N_eKeR0Rywy6x71P0uuwzw) CIKM 2024
+- [Pioneer: Physics-informed Riemannian Graph ODE for Entropy-increasing Dynamics](https://arxiv.org/abs/2502.03251) AAAI 2025
 - [RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](https://arxiv.org/abs/2502.03251) WWW 2025
+
 
 ## Riemannian Networks on General Geometries
 - [Dilated Convolutional Neural Networks for Sequential Manifold-valued Data](https://arxiv.org/abs/1910.02206) ICCV 2019
 - [ManifoldNet: A Deep Neural Network for Manifold-Valued Data With Applications](https://ieeexplore.ieee.org/document/9122448) TPAMI 2020
 - [ManifoldNorm: Extending normalizations on Riemannian Manifolds](https://arxiv.org/abs/2003.13869) Arxiv 2020
-- [Computationally Tractable Riemannian Manifolds for Graph Embeddings](https://doi.org/10.1609/aaai.v35i8.16877) AAAI 2021
+
 - [A Gyrovector Space Approach for Symmetric Positive Semi-definite Matrix Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870052.pdf) ECCV 2022
 - [The Gyro-Structure of Some Matrix Manifolds](https://openreview.net/forum?id=eyE9Fb2AvOT) NeurIPS 2022
 - [Building Neural Networks on Matrix Manifolds: A Gyrovector Space Approach](https://arxiv.org/abs/2305.04560) ICML 2023
@@ -174,7 +181,9 @@
 - [Exploring Data Geometry for Continual Learning](https://arxiv.org/abs/2304.03931) CVPR 2023
 - [Scaling Riemannian Diffusion Models](https://arxiv.org/abs/2310.20030) NeurIPS 2023
 - [Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) ICLR 2024
+- [Hyperbolic Geometric Latent Diffusion Model for Graph Generation](https://arxiv.org/abs/2405.03188) ICML 2024
 - [Generative Modeling on Lie Groups via Euclidean Generalized Score Matching](https://arxiv.org/abs/2502.02513) Arxiv 2025
+
 
 
 ## Applications in Euclidean Deep Learning
