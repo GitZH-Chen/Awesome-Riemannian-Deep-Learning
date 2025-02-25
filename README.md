@@ -157,7 +157,6 @@
 - [Pioneer: Physics-informed Riemannian Graph ODE for Entropy-increasing Dynamics](https://arxiv.org/abs/2502.03251) AAAI 2025
 - [RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](https://arxiv.org/abs/2502.03251) WWW 2025
 
-
 ## Riemannian Networks on General Geometries
 - [Dilated Convolutional Neural Networks for Sequential Manifold-valued Data](https://arxiv.org/abs/1910.02206) ICCV 2019
 - [ManifoldNet: A Deep Neural Network for Manifold-Valued Data With Applications](https://ieeexplore.ieee.org/document/9122448) TPAMI 2020
@@ -198,3 +197,6 @@
 - [On the Eigenvalues of Global Covariance Pooling for Fine-grained Visual Recognition](https://ieeexplore.ieee.org/abstract/document/9785385) TPAMI 2022
 - [Learning partial correlation based deep visual representation for image classification](https://arxiv.org/abs/2304.11597) CVPR 2023
 - [Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry](https://openreview.net/forum?id=q1t0Lmvhty) ICLR 2025
+
+Others
+- [Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction](https://openaccess.thecvf.com//content/WACV2025/papers/Zaier_Geometry-Aware_Deep_Learning_for_3D_Skeleton-Based_Motion_Prediction_WACV_2025_paper.pdf) WACV 2025
