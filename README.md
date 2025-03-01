@@ -30,6 +30,7 @@
     * [Riemannian Generative Networks](#riemannian-generative-networks)
     * [Applications in Euclidean Deep Learning](#applications-in-euclidean-deep-learning)
       * [High-order Pooling](#high-order-pooling)
+      * [Others](#others)
 
       </details>
 
@@ -199,5 +200,5 @@
 - [Learning partial correlation based deep visual representation for image classification](https://arxiv.org/abs/2304.11597) CVPR 2023
 - [Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry](https://openreview.net/forum?id=q1t0Lmvhty) ICLR 2025
 
-Others
+### Others
 - [Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction](https://openaccess.thecvf.com//content/WACV2025/papers/Zaier_Geometry-Aware_Deep_Learning_for_3D_Skeleton-Based_Motion_Prediction_WACV_2025_paper.pdf) WACV 2025
