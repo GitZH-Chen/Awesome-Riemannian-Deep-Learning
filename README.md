@@ -53,6 +53,7 @@
 - [Naive Lie Theory](https://link.springer.com/book/10.1007/978-0-387-78214-0) Springer, 2008.
 - [Lie Groups, Lie Algebras, and Representations](https://link.springer.com/book/10.1007/978-3-319-13467-3) Springer, 2015.
 - [A mathematical introduction to robotic manipulation](https://doi.org/10.1201/9781315136370)
+- [Rotation Averaging](https://doi.org/10.1007/s11263-012-0601-0) IJCV 2013
 
 ##  Hyperbolic Geometry
 - [Hyperbolic Geometry](https://www.math.ucdavis.edu/~kapovich/RFG/cannon.pdf) 
@@ -112,7 +113,6 @@
 - [A Grassmannian Manifold Self-Attention Network for Signal Classification](https://www.ijcai.org/proceedings/2024/564) IJCAI 2024
 
 ## Lie Group Neural Networks
-- [Rotation Averaging](https://doi.org/10.1007/s11263-012-0601-0) IJCV 2013
 - [Human Action Recognition by Representing 3D Skeletons as Points in a Lie Group](https://ieeexplore.ieee.org/document/6909476) CVPR 2014
 - [Rolling rotations for recognizing human actions from 3d skeletal data](https://ieeexplore.ieee.org/document/7780853) CVPR 2016
 - [Deep Learning on Lie Groups for Skeleton-based Action Recognition](https://arxiv.org/abs/1612.05877) CVPR 2017
