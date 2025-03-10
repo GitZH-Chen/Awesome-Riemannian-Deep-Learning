@@ -72,7 +72,7 @@
 
 ### Riemannian Metric Learning
 - [Learning Riemannian Metrics for Interpolating Animations](https://openreview.net/forum?id=u1erMPtujY) Openreview 2024
-- [Riemann2: Learning Riemannian Submanifolds from Riemannian Data](https://arxiv.org/pdf/2503.05540) AISTATS 2025
+- [Riemann<sup>2</sup>: Learning Riemannian Submanifolds from Riemannian Data](https://arxiv.org/pdf/2503.05540) AISTATS 2025
 - [Riemannian Metric Learning: Closer to You than You Imagine](https://arxiv.org/pdf/2503.05321#page=23.23) Arxiv 2025
 
 ### SPD Geometries
