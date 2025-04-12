@@ -209,12 +209,12 @@
 
 
 ### Computer Vision
+- [HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations](https://arxiv.org/abs/2303.06242) ICLR 2023
 - [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/pdf/2503.12127) CVPR 2025
 - Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation CVPR 2025
 - [Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection](https://www.arxiv.org/abs/2503.00643) CVPR 2025
 - [Hyperbolic Category Discovery](https://www.arxiv.org/pdf/2504.06120) CVPR 2025
 - Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space CVPR 2025
-- [HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations](https://arxiv.org/abs/2303.06242) ICLR 2023
 - [Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction](https://openaccess.thecvf.com//content/WACV2025/papers/Zaier_Geometry-Aware_Deep_Learning_for_3D_Skeleton-Based_Motion_Prediction_WACV_2025_paper.pdf) WACV 2025
 
 ### Neuroscience Applications
