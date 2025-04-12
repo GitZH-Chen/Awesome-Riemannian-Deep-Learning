@@ -19,7 +19,7 @@
       * [SPD Geometries](#spd-geometries)
       * [Grassmannian](#grassmannian)
       * [Lie Groups](#lie-groups)
-      * [Riemannian Operators](#riemannian-operators)
+      * [Miscellaneous](#miscellaneous)
     * [SPD Neural Networks](#spd-neural-networks)
     * [Grassmannian Neural Networks](#grassmannian-neural-networks)
     * [Lie Group Neural Networks](#lie-group-neural-networks)
@@ -98,7 +98,7 @@
 - [Left-Invariant Riemannian Geodesics on Spatial Transformation Groups](https://epubs.siam.org/doi/10.1137/130928352) SIIMS 2014
 - [Optimal Transport on the Lie Group of Roto-translations](https://arxiv.org/abs/2402.15322) SIIMS 2024
 
-### Riemannian Operators
+### Miscellaneous
 - [Weighted Frechet Means as Convex Combinations in Metric Spaces: Properties and Generalized Median Inequalities](https://arxiv.org/pdf/1204.2194) Statistics & Probability Letters 2012
 
 
