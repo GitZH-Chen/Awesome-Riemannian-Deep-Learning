@@ -16,6 +16,8 @@
   * [2. Papers](#2-papers)
     * [Popular Manifolds](#popular-manifolds)
     * [Geometries](#geometries)
+      * [Manifold Learning](#manifold-learning)
+      * [Riemannian Metric Learning](#riemannian-metric-learning)
       * [SPD Geometries](#spd-geometries)
       * [Grassmannian](#grassmannian)
       * [Lie Groups](#lie-groups)
@@ -70,6 +72,9 @@
 > An overview can be found in https://www.manopt.org/manifolds.html
 
 ## Geometries
+
+### Manifold Learning
+- [Finsler Multi-Dimensional Scaling: Manifold Learning for Asymmetric Dimensionality Reduction and Embedding](https://arxiv.org/pdf/2503.18010) CVPR 2025
 
 ### Riemannian Metric Learning
 - [Learning Riemannian Metrics for Interpolating Animations](https://openreview.net/forum?id=u1erMPtujY) Openreview 2024
@@ -209,6 +214,8 @@
 - [On the Eigenvalues of Global Covariance Pooling for Fine-grained Visual Recognition](https://ieeexplore.ieee.org/abstract/document/9785385) TPAMI 2022
 - [Learning partial correlation based deep visual representation for image classification](https://arxiv.org/abs/2304.11597) CVPR 2023
 - [Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry](https://openreview.net/forum?id=q1t0Lmvhty) ICLR 2025
+
+
 
 ### Others
 - [HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations](https://arxiv.org/abs/2303.06242) ICLR 2023
