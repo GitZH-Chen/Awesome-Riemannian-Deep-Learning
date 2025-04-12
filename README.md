@@ -33,6 +33,7 @@
     * [Applications](#applications)
       * [Neuroscience Applications](#neuroscience-applications)
       * [High-order Pooling](#high-order-pooling)
+      * [Generative Models](#generative-models)
       * [Others](#others)
 
       </details>
@@ -94,6 +95,7 @@
 - [Product Geometries on Cholesky Manifolds with Applications to SPD Manifolds](https://arxiv.org/abs/2407.02607) Arxiv 2024
 - [Wrapped Gaussian on the manifold of Symmetric Positive Definite Matrices](https://arxiv.org/abs/2502.01512) Arxiv 2025
 - [A Riemannian covariance for manifold-valued data](https://arxiv.org/abs/2410.06164) Arxiv 2025
+- [Learning to Normalize on the SPD Manifold under Bures-Wasserstein geometry](https://arxiv.org/abs/2504.00660) CVPR 2025
 
 ### Grassmannian
 - [The Geometry of Algorithms with Orthogonality Constraints](https://doi.org/10.1137/S0895479895290954) SIMAX 1998
@@ -194,6 +196,25 @@
 
 ## Applications
 
+#### High-order Pooling
+  - [Kernel Pooling for Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Kernel_Pooling_for_CVPR_2017_paper.html) CVPR 2017
+  - [Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization](https://arxiv.org/abs/1712.01034) CVPR 2018
+  - [DeepKSPD: Learning Kernel-matrix-based SPD  Representation for Fine-grained Image Recognition](https://doi.org/10.1007/978-3-030-01216-8_38) ECCV 2018
+  - [Deep CNNs Meet Global Covariance Pooling: Better Representation and Generalization](https://arxiv.org/abs/1904.06836) TPAMI 2020
+  - [Orthogonal SVD Covariance Conditioning and Latent Disentanglement](https://ieeexplore.ieee.org/abstract/document/9983471) TPAMI 2022
+  - [Fast Differentiable Matrix Square Root and Inverse Square Root](https://ieeexplore.ieee.org/abstract/document/9926140) TPAMI 2022
+  - [On the Eigenvalues of Global Covariance Pooling for Fine-grained Visual Recognition](https://ieeexplore.ieee.org/abstract/document/9785385) TPAMI 2022
+  - [Learning partial correlation based deep visual representation for image classification](https://arxiv.org/abs/2304.11597) CVPR 2023
+  - [Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry](https://openreview.net/forum?id=q1t0Lmvhty) ICLR 2025
+
+
+### Computer Vision
+- [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/pdf/2503.12127) CVPR 2025
+- Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation CVPR 2025
+- [Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection](https://www.arxiv.org/abs/2503.00643) CVPR 2025
+- [Hyperbolic Category Discovery](https://www.arxiv.org/pdf/2504.06120) CVPR 2025
+- Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space CVPR 2025
+
 ### Neuroscience Applications
 - [MAtt: A Manifold Attention Network for EEG Decoding](https://openreview.net/forum?id=YG4Dg7xtETg) NeurIPS 2022
 - [Deep Optimal Transport for Domain Adaptation on SPD Manifolds](https://arxiv.org/abs/2201.05745) Arxiv 2024
@@ -204,18 +225,9 @@
 - [SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG](https://openreview.net/forum?id=CoQw1dXtGb) ICLR 2025
 - [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0) ICLR 2025
 
-### High-order Pooling
-- [Kernel Pooling for Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Kernel_Pooling_for_CVPR_2017_paper.html) CVPR 2017
-- [Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization](https://arxiv.org/abs/1712.01034) CVPR 2018
-- [DeepKSPD: Learning Kernel-matrix-based SPD  Representation for Fine-grained Image Recognition](https://doi.org/10.1007/978-3-030-01216-8_38) ECCV 2018
-- [Deep CNNs Meet Global Covariance Pooling: Better Representation and Generalization](https://arxiv.org/abs/1904.06836) TPAMI 2020
-- [Orthogonal SVD Covariance Conditioning and Latent Disentanglement](https://ieeexplore.ieee.org/abstract/document/9983471) TPAMI 2022
-- [Fast Differentiable Matrix Square Root and Inverse Square Root](https://ieeexplore.ieee.org/abstract/document/9926140) TPAMI 2022
-- [On the Eigenvalues of Global Covariance Pooling for Fine-grained Visual Recognition](https://ieeexplore.ieee.org/abstract/document/9785385) TPAMI 2022
-- [Learning partial correlation based deep visual representation for image classification](https://arxiv.org/abs/2304.11597) CVPR 2023
-- [Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry](https://openreview.net/forum?id=q1t0Lmvhty) ICLR 2025
 
-
+### Generative Models
+- Spherical Manifold Guided Diffusion Model for Panoramic Image Generation CVPR 2025
 
 ### Others
 - [HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations](https://arxiv.org/abs/2303.06242) ICLR 2023
