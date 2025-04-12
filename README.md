@@ -100,7 +100,7 @@
 
 ### Miscellaneous
 - [Weighted Frechet Means as Convex Combinations in Metric Spaces: Properties and Generalized Median Inequalities](https://arxiv.org/pdf/1204.2194) Statistics & Probability Letters 2012
-
+- [Geodesics, Parallel Transport & One-Parameter Subgroups for Diffeomorphic Image Registration](https://link.springer.com/article/10.1007/s11263-012-0598-4) IJCV 2012
 
 ## SPD Neural Networks
 ### Network Construction
