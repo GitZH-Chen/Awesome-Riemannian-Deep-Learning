@@ -214,6 +214,8 @@
 - [Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection](https://www.arxiv.org/abs/2503.00643) CVPR 2025
 - [Hyperbolic Category Discovery](https://www.arxiv.org/pdf/2504.06120) CVPR 2025
 - Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space CVPR 2025
+- [HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations](https://arxiv.org/abs/2303.06242) ICLR 2023
+- [Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction](https://openaccess.thecvf.com//content/WACV2025/papers/Zaier_Geometry-Aware_Deep_Learning_for_3D_Skeleton-Based_Motion_Prediction_WACV_2025_paper.pdf) WACV 2025
 
 ### Neuroscience Applications
 - [MAtt: A Manifold Attention Network for EEG Decoding](https://openreview.net/forum?id=YG4Dg7xtETg) NeurIPS 2022
@@ -228,7 +230,3 @@
 
 ### Generative Models
 - Spherical Manifold Guided Diffusion Model for Panoramic Image Generation CVPR 2025
-
-### Others
-- [HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations](https://arxiv.org/abs/2303.06242) ICLR 2023
-- [Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction](https://openaccess.thecvf.com//content/WACV2025/papers/Zaier_Geometry-Aware_Deep_Learning_for_3D_Skeleton-Based_Motion_Prediction_WACV_2025_paper.pdf) WACV 2025
