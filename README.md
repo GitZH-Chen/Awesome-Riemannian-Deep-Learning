@@ -27,7 +27,6 @@
     * [Lie Group Neural Networks](#lie-group-neural-networks)
     * [Constant Curvature Neural Networks](#constant-curvature-neural-networks)
     * [Riemannian Graph Neural Networks](#riemannian-graph-neural-networks)
-    * [Neuroscience Applications](#neuroscience-applications)
     * [Riemannian Networks on General Geometries](#riemannian-networks-on-general-geometries)
     * [Riemannian Generative Networks](#riemannian-generative-networks)
     * [Applications](#applications)
