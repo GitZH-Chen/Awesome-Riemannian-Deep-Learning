@@ -81,10 +81,10 @@
 ### Manifold Learning
 - [Finsler Multi-Dimensional Scaling: Manifold Learning for Asymmetric Dimensionality Reduction and Embedding](https://arxiv.org/pdf/2503.18010) CVPR 2025
 
-  #### Riemannian Metric Learning
-  - [Learning Riemannian Metrics for Interpolating Animations](https://openreview.net/forum?id=u1erMPtujY) Openreview 2024
-  - [Riemann<sup>2</sup>: Learning Riemannian Submanifolds from Riemannian Data](https://arxiv.org/pdf/2503.05540) AISTATS 2025
-  - [Riemannian Metric Learning: Closer to You than You Imagine](https://arxiv.org/pdf/2503.05321#page=23.23) Arxiv 2025
+#### Riemannian Metric Learning
+- [Learning Riemannian Metrics for Interpolating Animations](https://openreview.net/forum?id=u1erMPtujY) Openreview 2024
+- [Riemann<sup>2</sup>: Learning Riemannian Submanifolds from Riemannian Data](https://arxiv.org/pdf/2503.05540) AISTATS 2025
+- [Riemannian Metric Learning: Closer to You than You Imagine](https://arxiv.org/pdf/2503.05321#page=23.23) Arxiv 2025
 
 ### SPD Geometries
 - [Fast and Simple Computations on Tensors with Log-Euclidean Metrics](https://inria.hal.science/inria-00070423/document) Reaserch Report 2005
@@ -157,21 +157,21 @@
 - [Cartan Networks: Group theoretical Hyperbolic Deep Learning](https://arxiv.org/pdf/2505.24353) 2025
 
 ## Riemannian Graph Neural Networks
-  ### Matrix Manifolds Graph Neural Networks 
-  - [Computationally Tractable Riemannian Manifolds for Graph Embeddings](https://doi.org/10.1609/aaai.v35i8.16877) AAAI 2021
-  - [Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective from the Time-Frequency Analysis](https://arxiv.org/abs/2211.02641) TNNLS 2023
-  - [Modeling Graphs Beyond Hyperbolic: Graph Neural Networks in Symmetric Positive Definite Matrices](https://arxiv.org/abs/2306.14064) ECML 2023
+### Matrix Manifolds Graph Neural Networks 
+- [Computationally Tractable Riemannian Manifolds for Graph Embeddings](https://doi.org/10.1609/aaai.v35i8.16877) AAAI 2021
+- [Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective from the Time-Frequency Analysis](https://arxiv.org/abs/2211.02641) TNNLS 2023
+- [Modeling Graphs Beyond Hyperbolic: Graph Neural Networks in Symmetric Positive Definite Matrices](https://arxiv.org/abs/2306.14064) ECML 2023
 
-  ### Hyperbolic Graph Neural Networks 
-  - [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) NeurIPS 2019
-  - [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892) NeurIPS 2019
-  - [Constant Curvature Graph Convolutional Networks](https://arxiv.org/abs/1911.05076) ICML 2020
-  - [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](https://arxiv.org/pdf/2104.06942) CVPR 2021
-  - [LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering](https://arxiv.org/abs/2405.11801) ICML 2024
-  - [Spiking Graph Neural Network on Riemannian Manifolds](https://arxiv.org/abs/2410.17941) NeurIPS 2024
-  - [A Mixed-Curvature Graph Diffusion Model](https://dl.acm.org/doi/abs/10.1145/3627673.3679708?casa_token=AeZEppU7riIAAAAA:cie2_B_3MR3ut6RmJ1oHBxb85_6OP4g1HF3vXLLdzjqNLI8usy2i7N_eKeR0Rywy6x71P0uuwzw) CIKM 2024
-  - [Pioneer: Physics-informed Riemannian Graph ODE for Entropy-increasing Dynamics](https://arxiv.org/abs/2502.03251) AAAI 2025
-  - [RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](https://arxiv.org/abs/2502.03251) WWW 2025
+### Hyperbolic Graph Neural Networks 
+- [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) NeurIPS 2019
+- [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892) NeurIPS 2019
+- [Constant Curvature Graph Convolutional Networks](https://arxiv.org/abs/1911.05076) ICML 2020
+- [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](https://arxiv.org/pdf/2104.06942) CVPR 2021
+- [LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering](https://arxiv.org/abs/2405.11801) ICML 2024
+- [Spiking Graph Neural Network on Riemannian Manifolds](https://arxiv.org/abs/2410.17941) NeurIPS 2024
+- [A Mixed-Curvature Graph Diffusion Model](https://dl.acm.org/doi/abs/10.1145/3627673.3679708?casa_token=AeZEppU7riIAAAAA:cie2_B_3MR3ut6RmJ1oHBxb85_6OP4g1HF3vXLLdzjqNLI8usy2i7N_eKeR0Rywy6x71P0uuwzw) CIKM 2024
+- [Pioneer: Physics-informed Riemannian Graph ODE for Entropy-increasing Dynamics](https://arxiv.org/abs/2502.03251) AAAI 2025
+- [RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](https://arxiv.org/abs/2502.03251) WWW 2025
 
 ## Riemannian Networks on General Geometries
 - [Dilated Convolutional Neural Networks for Sequential Manifold-valued Data](https://arxiv.org/abs/1910.02206) ICCV 2019
@@ -204,7 +204,7 @@
 
 ### Computer Vision
 
-#### High-order Pooling
+  #### High-order Pooling
 - [Kernel Pooling for Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Kernel_Pooling_for_CVPR_2017_paper.html) CVPR 2017
 - [Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization](https://arxiv.org/abs/1712.01034) CVPR 2018
 - [DeepKSPD: Learning Kernel-matrix-based SPD  Representation for Fine-grained Image Recognition](https://doi.org/10.1007/978-3-030-01216-8_38) ECCV 2018
@@ -231,9 +231,9 @@
 - [Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding](https://arxiv.org/abs/2503.18578) CVPR 2025
 - [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/pdf/2505.24722) 2025
 
-  #### Fine-tuning
-  - [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Understanding_Fine-tuning_CLIP_for_Open-vocabulary_Semantic_Segmentation_in_Hyperbolic_Space_CVPR_2025_paper.pdf) CVPR 2025
-  - [Hyperbolic Fine-tuning for Large Language Models](https://arxiv.org/abs/2410.04010) 2025
+#### Fine-tuning
+- [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Understanding_Fine-tuning_CLIP_for_Open-vocabulary_Semantic_Segmentation_in_Hyperbolic_Space_CVPR_2025_paper.pdf) CVPR 2025
+- [Hyperbolic Fine-tuning for Large Language Models](https://arxiv.org/abs/2410.04010) 2025
 
 ### Neuroscience Applications
 - [MAtt: A Manifold Attention Network for EEG Decoding](https://openreview.net/forum?id=YG4Dg7xtETg) NeurIPS 2022
