@@ -27,6 +27,8 @@
     * [Lie Group Neural Networks](#lie-group-neural-networks)
     * [Constant Curvature Neural Networks](#constant-curvature-neural-networks)
     * [Riemannian Graph Neural Networks](#riemannian-graph-neural-networks)
+      * [Matrix Manifolds Graph Neural Networks](#matrix-manifolds-graph-neural-networks)
+      * [Hyperbolic Graph Neural Networks](#hyperbolic-graph-neural-networks)
     * [Riemannian Networks on General Geometries](#riemannian-networks-on-general-geometries)
     * [Riemannian Generative Networks](#riemannian-generative-networks)
     * [Applications](#applications)
@@ -109,7 +111,6 @@
 - [Geodesics, Parallel Transport & One-Parameter Subgroups for Diffeomorphic Image Registration](https://link.springer.com/article/10.1007/s11263-012-0598-4) IJCV 2012
 
 ## SPD Neural Networks
-### Network Construction
 - [A Riemannian Network for SPD Matrix Learning](https://arxiv.org/abs/1608.04233) AAAI 2017
 - [Riemannian batch normalization for SPD neural networks](https://arxiv.org/abs/1909.02414) NeurIPS 2019
 - [GeomNet: A Neural Network Based on Riemannian Geometries of SPD Matrix Space and Cholesky Space for 3D Skeleton-Based Interaction Recognition](https://arxiv.org/abs/2111.13089) ICCV 2021
@@ -150,14 +151,15 @@
 - [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh) ICLR 2024
 - [Hyperbolic Kernel Convolution: A Generic Framework](https://openreview.net/pdf?id=38SRU0BwXk) LOG 2024
 - [Lorentzian Residual Neural Networks](https://arxiv.org/abs/2412.14695) KDD 2025
-- [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV) ICLR 2025
 - [Cartan Networks: Group theoretical Hyperbolic Deep Learning](https://arxiv.org/pdf/2505.24353) 2025
 
 ## Riemannian Graph Neural Networks
+### Matrix Manifolds Graph Neural Networks 
 - [Computationally Tractable Riemannian Manifolds for Graph Embeddings](https://doi.org/10.1609/aaai.v35i8.16877) AAAI 2021
 - [Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective from the Time-Frequency Analysis](https://arxiv.org/abs/2211.02641) TNNLS 2023
 - [Modeling Graphs Beyond Hyperbolic: Graph Neural Networks in Symmetric Positive Definite Matrices](https://arxiv.org/abs/2306.14064) ECML 2023
 
+### Hyperbolic Graph Neural Networks 
 - [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) NeurIPS 2019
 - [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892) NeurIPS 2019
 - [Constant Curvature Graph Convolutional Networks](https://arxiv.org/abs/1911.05076) ICML 2020
@@ -197,7 +199,9 @@
 
 ## Applications
 
-### High-order Pooling
+### Computer Vision
+
+#### High-order Pooling
   - [Kernel Pooling for Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Kernel_Pooling_for_CVPR_2017_paper.html) CVPR 2017
   - [Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization](https://arxiv.org/abs/1712.01034) CVPR 2018
   - [DeepKSPD: Learning Kernel-matrix-based SPD  Representation for Fine-grained Image Recognition](https://doi.org/10.1007/978-3-030-01216-8_38) ECCV 2018
@@ -208,17 +212,16 @@
   - [Learning partial correlation based deep visual representation for image classification](https://arxiv.org/abs/2304.11597) CVPR 2023
   - [Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry](https://openreview.net/forum?id=q1t0Lmvhty) ICLR 2025
 
-### Generative Models
+#### Generative Models
 - Spherical Manifold Guided Diffusion Model for Panoramic Image Generation CVPR 2025
 
-### Computer Vision
+#### Others
 - [HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations](https://arxiv.org/abs/2303.06242) ICLR 2023
 - [Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction](https://openaccess.thecvf.com//content/WACV2025/papers/Zaier_Geometry-Aware_Deep_Learning_for_3D_Skeleton-Based_Motion_Prediction_WACV_2025_paper.pdf) WACV 2025
-- [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/pdf/2503.12127) CVPR 2025
 - Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation CVPR 2025
 - [Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection](https://www.arxiv.org/abs/2503.00643) CVPR 2025
 - [Hyperbolic Category Discovery](https://www.arxiv.org/pdf/2504.06120) CVPR 2025
-- Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space CVPR 2025
+
 
 ### Neuroscience Applications
 - [MAtt: A Manifold Attention Network for EEG Decoding](https://openreview.net/forum?id=YG4Dg7xtETg) NeurIPS 2022
@@ -231,7 +234,14 @@
 - [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0) ICLR 2025
 
 ### Large Models
+- [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV) ICLR 2025
+- [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/pdf/2503.12127) CVPR 2025
+- [Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding](https://arxiv.org/abs/2503.18578) CVPR 2025
 - [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/pdf/2505.24722) 2025
+
+#### Fine-tuning
+- [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Understanding_Fine-tuning_CLIP_for_Open-vocabulary_Semantic_Segmentation_in_Hyperbolic_Space_CVPR_2025_paper.pdf) CVPR 2025
+- [Hyperbolic Fine-tuning for Large Language Models](https://arxiv.org/abs/2410.04010) 2025
 
 
 
