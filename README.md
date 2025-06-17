@@ -245,6 +245,7 @@
 - [SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG](https://openreview.net/forum?id=CoQw1dXtGb) ICLR 2025
 - [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0) ICLR 2025
 - [SPD Learning for Covariance-Based Neuroimaging Analysis: Perspectives, Methods, and Challenges](https://arxiv.org/abs/2504.18882) 2025
+- [Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry](https://arxiv.org/abs/2505.18193) 2025
 
 
 
