@@ -144,6 +144,7 @@
 - [Fully Hyperbolic Neural Networks](https://arxiv.org/abs/2105.14686) ACL 2022
 - [Nested hyperbolic spaces for dimensionality reduction and hyperbolic nn design](https://arxiv.org/abs/2112.03402) CVPR 2022
 - [Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds](https://openreview.net/forum?id=yoLGaLPEPo) NeurIPS 2022
+- [Random Laplacian Features for Learning with Hyperbolic Space](https://arxiv.org/abs/2202.06854) ICLR 2023
 - [Poincaré ResNet](https://arxiv.org/abs/2303.14027) ICCV 2023
 - [Horospherical Decision Boundaries for Large Margin Classification in Hyperbolic Space](https://arxiv.org/abs/2302.06807) NeurIPS 2023
 - [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh) ICLR 2024
