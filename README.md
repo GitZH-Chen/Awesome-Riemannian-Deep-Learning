@@ -2,8 +2,6 @@
 
 🚀 This is an ongoing repo, containing resources on Riemannian deep learning.
 
-🌟 **Note:** This repo does not inlcude Riemannian optimization. For that, please refer to [Awesome-Riemannian-Optimization](https://github.com/andyjm3/Awesome-Riemannian-Optimization) by [Andi Han](https://scholar.google.com/citations?user=AKHQHs0AAAAJ&hl=en).
-
 <details open>
   <summary><h2><b> Contents </b></h2></summary>
 
@@ -70,6 +68,8 @@
 ##  Riemannian Optimization
 1. [Optimization Algorithms on Matrix Manifolds](https://press.princeton.edu/absil?srsltid=AfmBOorlfmgaTCzFeGcEDw9mxNrVvWMaKhY578kDlMOKlYY9D-G9ar3n) Cambridge University Press, 2023
 2. [An introduction to Optimization on smooth manifolds](https://www.nicolasboumal.net/book/) Princeton University Press, 2008.
+
+🌟 **Note:** For more on Riemannian optimization, please refer to [Awesome-Riemannian-Optimization](https://github.com/andyjm3/Awesome-Riemannian-Optimization) by [Andi Han](https://scholar.google.com/citations?user=AKHQHs0AAAAJ&hl=en).
 
 # 2 Papers
 
