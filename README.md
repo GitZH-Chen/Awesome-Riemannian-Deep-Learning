@@ -32,10 +32,13 @@
     * [Riemannian Networks on General Geometries](#riemannian-networks-on-general-geometries)
     * [Riemannian Generative Networks](#riemannian-generative-networks)
     * [Applications](#applications)
-      * [High-order Pooling](#high-order-pooling)
-      * [Generative Models](#generative-models)
-      * [Other Computer Vision](#other-computer-vision)
+      * [Computer Vision](#computer-vision)
+        * [High-order Pooling](#high-order-pooling)
+        * [Generative Models](#generative-models)
+        * [Others](#Others)
+      * [Large Models](#large-models)
       * [Neuroscience Applications](#neuroscience-applications)
+      
 
       </details>
 
@@ -222,6 +225,15 @@
 - [Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection](https://www.arxiv.org/abs/2503.00643) CVPR 2025
 - [Hyperbolic Category Discovery](https://www.arxiv.org/pdf/2504.06120) CVPR 2025
 
+### Large Models
+- [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV) ICLR 2025
+- [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/pdf/2503.12127) CVPR 2025
+- [Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding](https://arxiv.org/abs/2503.18578) CVPR 2025
+- [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/pdf/2505.24722) 2025
+
+#### Fine-tuning
+- [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Understanding_Fine-tuning_CLIP_for_Open-vocabulary_Semantic_Segmentation_in_Hyperbolic_Space_CVPR_2025_paper.pdf) CVPR 2025
+- [Hyperbolic Fine-tuning for Large Language Models](https://arxiv.org/abs/2410.04010) 2025
 
 ### Neuroscience Applications
 - [MAtt: A Manifold Attention Network for EEG Decoding](https://openreview.net/forum?id=YG4Dg7xtETg) NeurIPS 2022
@@ -233,15 +245,7 @@
 - [SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG](https://openreview.net/forum?id=CoQw1dXtGb) ICLR 2025
 - [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0) ICLR 2025
 
-### Large Models
-- [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV) ICLR 2025
-- [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/pdf/2503.12127) CVPR 2025
-- [Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding](https://arxiv.org/abs/2503.18578) CVPR 2025
-- [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/pdf/2505.24722) 2025
 
-#### Fine-tuning
-- [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Understanding_Fine-tuning_CLIP_for_Open-vocabulary_Semantic_Segmentation_in_Hyperbolic_Space_CVPR_2025_paper.pdf) CVPR 2025
-- [Hyperbolic Fine-tuning for Large Language Models](https://arxiv.org/abs/2410.04010) 2025
 
 
 
