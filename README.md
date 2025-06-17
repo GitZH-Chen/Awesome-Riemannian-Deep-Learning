@@ -17,7 +17,7 @@
     * [Popular Manifolds](#popular-manifolds)
     * [Geometries](#geometries)
       * [Manifold Learning](#manifold-learning)
-      * [Riemannian Metric Learning](#riemannian-metric-learning)
+        * [Riemannian Metric Learning](#riemannian-metric-learning)
       * [SPD Geometries](#spd-geometries)
       * [Grassmannian](#grassmannian)
       * [Lie Groups](#lie-groups)
@@ -81,10 +81,10 @@
 ### Manifold Learning
 - [Finsler Multi-Dimensional Scaling: Manifold Learning for Asymmetric Dimensionality Reduction and Embedding](https://arxiv.org/pdf/2503.18010) CVPR 2025
 
-### Riemannian Metric Learning
-- [Learning Riemannian Metrics for Interpolating Animations](https://openreview.net/forum?id=u1erMPtujY) Openreview 2024
-- [Riemann<sup>2</sup>: Learning Riemannian Submanifolds from Riemannian Data](https://arxiv.org/pdf/2503.05540) AISTATS 2025
-- [Riemannian Metric Learning: Closer to You than You Imagine](https://arxiv.org/pdf/2503.05321#page=23.23) Arxiv 2025
+  #### Riemannian Metric Learning
+  - [Learning Riemannian Metrics for Interpolating Animations](https://openreview.net/forum?id=u1erMPtujY) Openreview 2024
+  - [Riemann<sup>2</sup>: Learning Riemannian Submanifolds from Riemannian Data](https://arxiv.org/pdf/2503.05540) AISTATS 2025
+  - [Riemannian Metric Learning: Closer to You than You Imagine](https://arxiv.org/pdf/2503.05321#page=23.23) Arxiv 2025
 
 ### SPD Geometries
 - [Fast and Simple Computations on Tensors with Log-Euclidean Metrics](https://inria.hal.science/inria-00070423/document) Reaserch Report 2005
