@@ -247,6 +247,8 @@
 - [SPD Learning for Covariance-Based Neuroimaging Analysis: Perspectives, Methods, and Challenges](https://arxiv.org/abs/2504.18882) 2025
 - [Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry](https://arxiv.org/abs/2505.18193) 2025
 
+### Others
+- [Mixed-Curvature Multi-Modal Knowledge Graph Completion](https://ojs.aaai.org/index.php/AAAI/article/view/33273) AAAI 2025
 
 
 
