@@ -103,6 +103,7 @@
 
 ### Grassmannian
 - [The Geometry of Algorithms with Orthogonality Constraints](https://doi.org/10.1137/S0895479895290954) SIMAX 1998
+- [Schubert varieties and distances between subspaces of different dimensions](https://arxiv.org/pdf/1407.0900) SIMAX 2016
 - [A Grassmann Manifold Handbook: Basic Geometry and Computational Aspects](https://arxiv.org/abs/2011.13699) Advances in Computational Mathematics 2024
 
 ### Lie Groups
