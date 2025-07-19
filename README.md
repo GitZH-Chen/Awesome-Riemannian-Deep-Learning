@@ -221,6 +221,7 @@
 
 #### Others
 - [HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations](https://arxiv.org/abs/2303.06242) ICLR 2023
+- [Hyperbolic learning with synthetic captions for open-world detection](https://arxiv.org/abs/2404.05016) CVPR 2024
 - [Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction](https://openaccess.thecvf.com//content/WACV2025/papers/Zaier_Geometry-Aware_Deep_Learning_for_3D_Skeleton-Based_Motion_Prediction_WACV_2025_paper.pdf) WACV 2025
 - Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation CVPR 2025
 - [Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection](https://www.arxiv.org/abs/2503.00643) CVPR 2025
@@ -231,6 +232,7 @@
 - [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/pdf/2503.12127) CVPR 2025
 - [Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding](https://arxiv.org/abs/2503.18578) CVPR 2025
 - [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/pdf/2505.24722) 2025
+- [HyperVLM: Hyperbolic Space Guided Vision Language Modeling for Hierarchical Multi-Modal Understanding](https://openreview.net/pdf?id=kNWsjLgb3I) CVPRW 2025
 
 #### Fine-tuning
 - [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Understanding_Fine-tuning_CLIP_for_Open-vocabulary_Semantic_Segmentation_in_Hyperbolic_Space_CVPR_2025_paper.pdf) CVPR 2025
