@@ -191,6 +191,8 @@
 - [Neural Networks on Symmetric Spaces of Noncompact Type](https://openreview.net/forum?id=bwOndfohRK&noteId=XBiz6RG96t) ICLR 2025
 - [GyroAtt: A Gyro Attention Framework for Matrix Manifolds](https://openreview.net/forum?id=YcaFqY8LWD) Openreview 2025
 
+- [Navigation through Non-Compact Symmetric Spaces: a mathematical perspective on Cartan Neural Networks](https://arxiv.org/pdf/2507.16871) 2025
+
 ## Riemannian Generative Networks
 - [Riemannian score-based generative modelling](https://arxiv.org/abs/2202.02763) NeurIPS 2022
 - [Riemannian Diffusion Models](https://openreview.net/forum?id=ecevn9kPm4) NeurIPS 2022
