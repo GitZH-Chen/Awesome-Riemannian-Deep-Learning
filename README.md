@@ -228,6 +228,7 @@
 - Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation CVPR 2025
 - [Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection](https://www.arxiv.org/abs/2503.00643) CVPR 2025
 - [Hyperbolic Category Discovery](https://www.arxiv.org/pdf/2504.06120) CVPR 2025
+- [Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](https://arxiv.org/pdf/2507.17402) ICCV 2025
 
 ### Large Models
 - [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV) ICLR 2025
