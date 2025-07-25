@@ -236,6 +236,8 @@
 - [Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding](https://arxiv.org/abs/2503.18578) CVPR 2025
 - [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/pdf/2505.24722) 2025
 - [HyperVLM: Hyperbolic Space Guided Vision Language Modeling for Hierarchical Multi-Modal Understanding](https://openreview.net/pdf?id=kNWsjLgb3I) CVPRW 2025
+- [Hyperbolic Deep Learning for Foundation Models: A Survey](https://arxiv.org/pdf/2507.17787) KDD 2025
+
 
 #### Fine-tuning
 - [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Understanding_Fine-tuning_CLIP_for_Open-vocabulary_Semantic_Segmentation_in_Hyperbolic_Space_CVPR_2025_paper.pdf) CVPR 2025
