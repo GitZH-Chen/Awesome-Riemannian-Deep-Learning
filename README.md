@@ -137,6 +137,7 @@
 - [Deep Learning on Lie Groups for Skeleton-based Action Recognition](https://arxiv.org/abs/1612.05877) CVPR 2017
 
 ## Constant Curvature Neural Networks
+- [Hyperplane margin classifiers on the multinomial manifold](https://dl.acm.org/doi/abs/10.1145/1015330.1015333) ICML 2004
 - [Hyperbolic entailment cones for learning hierarchical embeddings](https://proceedings.mlr.press/v80/ganea18a.html) ICML 2018
 - [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/abs/1806.03417) ICML 2018
 - [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112) NeurIPS 2018
