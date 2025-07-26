@@ -29,6 +29,7 @@
       * [Hyperbolic Graph Neural Networks](#hyperbolic-graph-neural-networks)
     * [Riemannian Networks on General Geometries](#riemannian-networks-on-general-geometries)
     * [Riemannian Generative Networks](#riemannian-generative-networks)
+    * [Riemannian Optimal Transport](#riemannian-optimal-transport)
     * [Applications](#applications)
       * [Computer Vision](#computer-vision)
         * [High-order Pooling](#high-order-pooling)
