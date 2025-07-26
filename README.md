@@ -203,6 +203,15 @@
 - [Hyperbolic Geometric Latent Diffusion Model for Graph Generation](https://arxiv.org/abs/2405.03188) ICML 2024
 - [Generative Modeling on Lie Groups via Euclidean Generalized Score Matching](https://arxiv.org/abs/2502.02513) Arxiv 2025
 
+## Riemannian Optimal Transport
+
+- [Hyperbolic Wasserstein Distance for Shape Indexing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8637773) TPAMI 2019
+- [Sliced-Wasserstein on Symmetric Positive Definite Matrices for M/EEG Signals](https://proceedings.mlr.press/v202/bonet23a.html) ICML 2023
+- [Hyperbolic sliced-Wasserstein via geodesic and horospherical projections](https://proceedings.mlr.press/v221/bonet23a.html) ICMLW 2023
+- [Spherical Sliced-Wasserstein](https://arxiv.org/abs/2206.08780) ICLR 2023
+- [Sliced-Wasserstein Distances and Flows on Cartan-Hadamard Manifolds](https://arxiv.org/abs/2403.06560) JMLR 2025
+
+
 ## Applications
 
 ### Computer Vision
