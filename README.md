@@ -2,7 +2,7 @@
 
 🚀 This is an ongoing repo, containing resources on Riemannian deep learning.
 
-You might also be interested in [AIPaperTutorial](https://github.com/GitZH-Chen/AIPaperTutorial), which offers basics on writting for junior researchers.
+<!-- You might also be interested in [AIPaperTutorial](https://github.com/GitZH-Chen/AIPaperTutorial), which offers basics on writting for junior researchers. -->
 
 <details open>
   <summary><h2><b> Contents </b></h2></summary>
