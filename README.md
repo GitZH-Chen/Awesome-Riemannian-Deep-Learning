@@ -160,6 +160,7 @@
 - [Hyperbolic Kernel Convolution: A Generic Framework](https://openreview.net/pdf?id=38SRU0BwXk) LOG 2024
 - [Lorentzian Residual Neural Networks](https://arxiv.org/abs/2412.14695) KDD 2025
 - [Cartan Networks: Group theoretical Hyperbolic Deep Learning](https://arxiv.org/pdf/2505.24353) 2025
+- [HyperCore: The Core Framework for Building Hyperbolic Foundation Models with Comprehensive Modules](https://arxiv.org/abs/2504.08912) 2025
 
 ## Riemannian Graph Neural Networks
 ### Matrix Manifolds Graph Neural Networks 
