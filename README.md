@@ -159,6 +159,7 @@
 - [Horospherical Decision Boundaries for Large Margin Classification in Hyperbolic Space](https://arxiv.org/abs/2302.06807) NeurIPS 2023
 - [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh) ICLR 2024
 - [Hyperbolic Kernel Convolution: A Generic Framework](https://openreview.net/pdf?id=38SRU0BwXk) LOG 2024
+- [Hyperbolic Deep Learning in Computer Vision: A Survey](https://link.springer.com/article/10.1007/s11263-024-02043-5) IJCV 2024
 - [Lorentzian Residual Neural Networks](https://arxiv.org/abs/2412.14695) KDD 2025
 - [Cartan Networks: Group theoretical Hyperbolic Deep Learning](https://arxiv.org/pdf/2505.24353) 2025
 - [HyperCore: The Core Framework for Building Hyperbolic Foundation Models with Comprehensive Modules](https://arxiv.org/abs/2504.08912) 2025
