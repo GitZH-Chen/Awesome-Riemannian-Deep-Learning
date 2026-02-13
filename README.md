@@ -36,9 +36,9 @@
   - [Riemannian Optimal Transport](#riemannian-optimal-transport)
   - [Applications](#applications)
     - [Computer Vision](#computer-vision)
-      - [High-order Pooling](#high-order-pooling)
       - [Generative Models](#generative-models)
       - [Others](#others)
+    - [High-order Pooling](#high-order-pooling)
     - [Large Models](#large-models)
       - [Fine-tuning](#fine-tuning)
     - [Neuroscience Applications](#neuroscience-applications)
@@ -224,18 +224,6 @@
 
 ### Computer Vision
 
-#### High-order Pooling
-- [Kernel Pooling for Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Kernel_Pooling_for_CVPR_2017_paper.html) CVPR 2017
-- [Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization](https://arxiv.org/abs/1712.01034) CVPR 2018
-- [DeepKSPD: Learning Kernel-matrix-based SPD  Representation for Fine-grained Image Recognition](https://doi.org/10.1007/978-3-030-01216-8_38) ECCV 2018
-- [Deep CNNs Meet Global Covariance Pooling: Better Representation and Generalization](https://arxiv.org/abs/1904.06836) TPAMI 2020
-- [Orthogonal SVD Covariance Conditioning and Latent Disentanglement](https://ieeexplore.ieee.org/abstract/document/9983471) TPAMI 2022
-- [Fast Differentiable Matrix Square Root and Inverse Square Root](https://ieeexplore.ieee.org/abstract/document/9926140) TPAMI 2022
-- [On the Eigenvalues of Global Covariance Pooling for Fine-grained Visual Recognition](https://ieeexplore.ieee.org/abstract/document/9785385) TPAMI 2022
-- [Learning partial correlation based deep visual representation for image classification](https://arxiv.org/abs/2304.11597) CVPR 2023
-- [Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry](https://openreview.net/forum?id=q1t0Lmvhty) ICLR 2025
-- [Revitalizing SVD for Global Covariance Pooling: Halley’s Method to Overcome Over-Flattening](https://openreview.net/forum?id=fqpbXJ2QtC) NeurIPS 2025
-
 #### Generative Models
 - Spherical Manifold Guided Diffusion Model for Panoramic Image Generation CVPR 2025
 
@@ -247,6 +235,19 @@
 - [Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection](https://www.arxiv.org/abs/2503.00643) CVPR 2025
 - [Hyperbolic Category Discovery](https://www.arxiv.org/pdf/2504.06120) CVPR 2025
 - [Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](https://arxiv.org/pdf/2507.17402) ICCV 2025
+
+### High-order Pooling
+- [Kernel Pooling for Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2017/html/Cui_Kernel_Pooling_for_CVPR_2017_paper.html) CVPR 2017
+- [Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization](https://arxiv.org/abs/1712.01034) CVPR 2018
+- [DeepKSPD: Learning Kernel-matrix-based SPD  Representation for Fine-grained Image Recognition](https://doi.org/10.1007/978-3-030-01216-8_38) ECCV 2018
+- [Deep CNNs Meet Global Covariance Pooling: Better Representation and Generalization](https://arxiv.org/abs/1904.06836) TPAMI 2020
+- [Orthogonal SVD Covariance Conditioning and Latent Disentanglement](https://ieeexplore.ieee.org/abstract/document/9983471) TPAMI 2022
+- [Fast Differentiable Matrix Square Root and Inverse Square Root](https://ieeexplore.ieee.org/abstract/document/9926140) TPAMI 2022
+- [On the Eigenvalues of Global Covariance Pooling for Fine-grained Visual Recognition](https://ieeexplore.ieee.org/abstract/document/9785385) TPAMI 2022
+- [Learning partial correlation based deep visual representation for image classification](https://arxiv.org/abs/2304.11597) CVPR 2023
+- [Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry](https://openreview.net/forum?id=q1t0Lmvhty) ICLR 2025
+- [Revitalizing SVD for Global Covariance Pooling: Halley’s Method to Overcome Over-Flattening](https://openreview.net/forum?id=fqpbXJ2QtC) NeurIPS 2025
+- [Riemannian High-Order Pooling for Brain Foundation Models](https://openreview.net/forum?id=66h1sCMm7F) ICLR 2026
 
 ### Large Models
 - [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV) ICLR 2025
@@ -272,9 +273,8 @@
 - [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0) ICLR 2025
 - [SPD Learning for Covariance-Based Neuroimaging Analysis: Perspectives, Methods, and Challenges](https://arxiv.org/abs/2504.18882) 2025
 - [Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry](https://arxiv.org/abs/2505.18193) 2025
+- [Riemannian High-Order Pooling for Brain Foundation Models](https://openreview.net/forum?id=66h1sCMm7F) ICLR 2026
 
 ### Others
 - [Mixed-Curvature Multi-Modal Knowledge Graph Completion](https://ojs.aaai.org/index.php/AAAI/article/view/33273) AAAI 2025
-
-
 
