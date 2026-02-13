@@ -7,41 +7,42 @@
 <details open>
   <summary><h2><b> Contents </b></h2></summary>
 
-  * [1. Books](#1-books)
-    * [Topology](#topology)
-  	* [Differential Geometry](#differential-geometry)
-  	* [Riemannian Geometry](#riemannian-geometry)
-    * [Lie Groups](#lie-groups)
-    * [Riemannian Optimization](#riemannian-optimization)
-  * [2. Papers](#2-papers)
-    * [Popular Manifolds](#popular-manifolds)
-    * [Geometries](#geometries)
-      * [Manifold Learning](#manifold-learning)
-        * [Riemannian Metric Learning](#riemannian-metric-learning)
-      * [SPD Geometries](#spd-geometries)
-      * [Grassmannian](#grassmannian)
-      * [Lie Groups](#lie-groups)
-      * [Miscellaneous](#miscellaneous)
-    * [SPD Neural Networks](#spd-neural-networks)
-    * [Grassmannian Neural Networks](#grassmannian-neural-networks)
-    * [Lie Group Neural Networks](#lie-group-neural-networks)
-    * [Constant Curvature Neural Networks](#constant-curvature-neural-networks)
-    * [Riemannian Graph Neural Networks](#riemannian-graph-neural-networks)
-      * [Matrix Manifolds Graph Neural Networks](#matrix-manifolds-graph-neural-networks)
-      * [Hyperbolic Graph Neural Networks](#hyperbolic-graph-neural-networks)
-    * [Riemannian Networks on General Geometries](#riemannian-networks-on-general-geometries)
-    * [Riemannian Generative Networks](#riemannian-generative-networks)
-    * [Riemannian Optimal Transport](#riemannian-optimal-transport)
-    * [Applications](#applications)
-      * [Computer Vision](#computer-vision)
-        * [High-order Pooling](#high-order-pooling)
-        * [Generative Models](#generative-models)
-        * [Others](#Others)
-      * [Large Models](#large-models)
-      * [Neuroscience Applications](#neuroscience-applications)
-      
-
-      </details>
+- [Awesome Deep Learning over Riemannian Spaces](#awesome-deep-learning-over-riemannian-spaces)
+- [1 Books](#1-books)
+  - [Topology](#topology)
+  - [Differential Geometry](#differential-geometry)
+  - [Riemannian Geometry](#riemannian-geometry)
+  - [Lie Groups](#lie-groups)
+  - [Hyperbolic Geometry](#hyperbolic-geometry)
+  - [Riemannian Optimization](#riemannian-optimization)
+- [2 Papers](#2-papers)
+  - [Popular Manifolds](#popular-manifolds)
+  - [Geometries](#geometries)
+    - [Manifold Learning](#manifold-learning)
+      - [Riemannian Metric Learning](#riemannian-metric-learning)
+    - [SPD Geometries](#spd-geometries)
+    - [Grassmannian](#grassmannian)
+    - [Lie Groups](#lie-groups-1)
+    - [Miscellaneous](#miscellaneous)
+  - [SPD Neural Networks](#spd-neural-networks)
+  - [Grassmannian Neural Networks](#grassmannian-neural-networks)
+  - [Lie Group Neural Networks](#lie-group-neural-networks)
+  - [Constant Curvature Neural Networks](#constant-curvature-neural-networks)
+  - [Riemannian Graph Neural Networks](#riemannian-graph-neural-networks)
+    - [Matrix Manifolds Graph Neural Networks](#matrix-manifolds-graph-neural-networks)
+    - [Hyperbolic Graph Neural Networks](#hyperbolic-graph-neural-networks)
+  - [Riemannian Networks on General Geometries](#riemannian-networks-on-general-geometries)
+  - [Riemannian Generative Networks](#riemannian-generative-networks)
+  - [Riemannian Optimal Transport](#riemannian-optimal-transport)
+  - [Applications](#applications)
+    - [Computer Vision](#computer-vision)
+      - [High-order Pooling](#high-order-pooling)
+      - [Generative Models](#generative-models)
+      - [Others](#others)
+    - [Large Models](#large-models)
+      - [Fine-tuning](#fine-tuning)
+    - [Neuroscience Applications](#neuroscience-applications)
+    - [Others](#others-1)
 
 # 1 Books
 ##  Topology
@@ -233,6 +234,7 @@
 - [On the Eigenvalues of Global Covariance Pooling for Fine-grained Visual Recognition](https://ieeexplore.ieee.org/abstract/document/9785385) TPAMI 2022
 - [Learning partial correlation based deep visual representation for image classification](https://arxiv.org/abs/2304.11597) CVPR 2023
 - [Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry](https://openreview.net/forum?id=q1t0Lmvhty) ICLR 2025
+- [Revitalizing SVD for Global Covariance Pooling: Halley’s Method to Overcome Over-Flattening](https://openreview.net/forum?id=fqpbXJ2QtC) NeurIPS 2025
 
 #### Generative Models
 - Spherical Manifold Guided Diffusion Model for Panoramic Image Generation CVPR 2025
@@ -273,7 +275,6 @@
 
 ### Others
 - [Mixed-Curvature Multi-Modal Knowledge Graph Completion](https://ojs.aaai.org/index.php/AAAI/article/view/33273) AAAI 2025
-
 
 
 
