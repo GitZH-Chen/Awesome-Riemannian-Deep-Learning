@@ -278,3 +278,10 @@
 ### Others
 - [Mixed-Curvature Multi-Modal Knowledge Graph Completion](https://ojs.aaai.org/index.php/AAAI/article/view/33273) AAAI 2025
 
+## Auto Published Papers
+
+This section is generated from `data/papers.jsonl` by `./org pub`.
+
+<!-- ORG_PUB:START -->
+- [Hyperbolic Deep Learning for Foundation Models: A Survey](https://arxiv.org/pdf/2507.17787) KDD 2025
+<!-- ORG_PUB:END -->
