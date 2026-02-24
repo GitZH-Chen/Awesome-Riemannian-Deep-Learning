@@ -181,6 +181,7 @@
 - [A Mixed-Curvature Graph Diffusion Model](https://dl.acm.org/doi/abs/10.1145/3627673.3679708?casa_token=AeZEppU7riIAAAAA:cie2_B_3MR3ut6RmJ1oHBxb85_6OP4g1HF3vXLLdzjqNLI8usy2i7N_eKeR0Rywy6x71P0uuwzw) CIKM 2024
 - [Pioneer: Physics-informed Riemannian Graph ODE for Entropy-increasing Dynamics](https://arxiv.org/abs/2502.03251) AAAI 2025
 - [RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](https://arxiv.org/abs/2502.03251) WWW 2025
+- [Hyperbolic Deep Learning for Foundation Models: A Survey](https://arxiv.org/pdf/2507.17787) KDD 2025
 
 ## Riemannian Networks on General Geometries
 - [Dilated Convolutional Neural Networks for Sequential Manifold-valued Data](https://arxiv.org/abs/1910.02206) ICCV 2019
@@ -277,11 +278,3 @@
 
 ### Others
 - [Mixed-Curvature Multi-Modal Knowledge Graph Completion](https://ojs.aaai.org/index.php/AAAI/article/view/33273) AAAI 2025
-
-## Auto Published Papers
-
-This section is generated from `data/papers.jsonl` by `./org pub`.
-
-<!-- ORG_PUB:START -->
-- [Hyperbolic Deep Learning for Foundation Models: A Survey](https://arxiv.org/pdf/2507.17787) KDD 2025
-<!-- ORG_PUB:END -->
