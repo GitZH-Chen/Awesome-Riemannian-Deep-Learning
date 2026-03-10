@@ -36,13 +36,13 @@
   - [Riemannian Optimal Transport](#riemannian-optimal-transport)
   - [Applications](#applications)
     - [Computer Vision](#computer-vision)
+      - [High-order Pooling](#high-order-pooling)
       - [Generative Models](#generative-models)
       - [Others](#others)
-    - [High-order Pooling](#high-order-pooling)
     - [Large Models](#large-models)
       - [Fine-tuning](#fine-tuning)
     - [Neuroscience Applications](#neuroscience-applications)
-    - [Others](#others-1)
+    - [Mixed-Curvature](#mixed-curvature)
 
 # 1 Books
 ##  Topology
@@ -148,7 +148,6 @@
 - [Poincaré GloVe: Hyperbolic Word Embeddings](https://openreview.net/forum?id=Ske5r3AqK7)  ICLR 2019
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ) ICLR 2019
 - [Continuous Hierarchical Representations with Poincaré Variational Auto-Encoders](https://arxiv.org/abs/1901.06033) NeurIPS 2019
-- [Mixed-curvature Variational Autoencoders](https://openreview.net/forum?id=S1g6xeSKDS) ICLR 2020
 - [Hyperbolic Neural Networks++](https://arxiv.org/abs/2006.08210) ICLR 2021
 - [Differentiating through the Fréchet Mean](https://arxiv.org/abs/2003.00335) ICML 2020
 - [Curvature Generation in Hyperbolic Spaces for Few-Shot Learning](https://ieeexplore.ieee.org/document/9711172) ICCV 2021
@@ -253,8 +252,6 @@
 ### Large Models
 - [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV) ICLR 2025
 - [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/pdf/2503.12127) CVPR 2025
-- [Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding](https://arxiv.org/abs/2503.18578) CVPR 2025
-- [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/pdf/2505.24722) 2025
 - [HyperVLM: Hyperbolic Space Guided Vision Language Modeling for Hierarchical Multi-Modal Understanding](https://openreview.net/pdf?id=kNWsjLgb3I) CVPRW 2025
 - [Hyperbolic Deep Learning for Foundation Models: A Survey](https://arxiv.org/pdf/2507.17787) KDD 2025
 
@@ -276,5 +273,20 @@
 - [Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry](https://arxiv.org/abs/2505.18193) 2025
 - [Riemannian High-Order Pooling for Brain Foundation Models](https://openreview.net/forum?id=66h1sCMm7F) ICLR 2026
 
-### Others
-- [Mixed-Curvature Multi-Modal Knowledge Graph Completion](https://ojs.aaai.org/index.php/AAAI/article/view/33273) AAAI 2025
+### Mixed-Curvature
+- [Learning Mixed-Curvature Representations in Product Spaces](https://openreview.net/pdf?id=HJxeWnCcF7) ICLR 2019
+- [Mixed-Curvature Variational Autoencoders](https://openreview.net/pdf?id=S1g6xeSKDS) ICLR 2020
+- [Geometry Interaction Knowledge Graph Embeddings](https://cdn.aaai.org/ojs/20491/20491-13-24504-1-2-20220628.pdf) AAAI 2022
+- [A Self-Supervised Mixed-Curvature Graph Neural Network](https://cdn.aaai.org/ojs/20333/20333-13-24346-1-2-20220628.pdf) AAAI 2022
+- [Spectro-Riemannian Graph Neural Networks](https://proceedings.iclr.cc/paper_files/paper/2025/file/915125efea950af378435518b3542e6a-Paper-Conference.pdf) ICLR 2025
+- [GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts](https://arxiv.org/pdf/2412.11085) AAAI 2025
+- [Mixed-Curvature Multi-Modal Knowledge Graph Completion](https://dl.acm.org/doi/10.1609/aaai.v39i11.33273) AAAI 2025
+- [CurvGAD: Leveraging Curvature for Enhanced Graph Anomaly Detection](https://openreview.net/pdf?id=O3dsbpAcqJ) ICML 2025
+- [A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver](https://openreview.net/pdf?id=JsPyLqCgks) ICML 2025
+- [Mixed-Curvature Decision Trees and Random Forests](https://openreview.net/pdf?id=7R8xrX5tJV) ICML 2025
+- [Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Galaxy_Walker_Geometry-aware_VLMs_For_Galaxy-scale_Understanding_CVPR_2025_paper.pdf) CVPR 2025
+- [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/pdf/2505.24722) NeurIPS 2025
+- [ProCLIP: Product Space Multimodal Contrastive Alignment](https://openreview.net/pdf?id=Sp3BrGpo5w) ICLR 2026 Workshop
+
+
+
