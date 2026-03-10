@@ -36,13 +36,15 @@
   - [Riemannian Optimal Transport](#riemannian-optimal-transport)
   - [Applications](#applications)
     - [Computer Vision](#computer-vision)
-      - [High-order Pooling](#high-order-pooling)
       - [Generative Models](#generative-models)
       - [Others](#others)
+      - [High-order Pooling](#high-order-pooling)
     - [Large Models](#large-models)
       - [Fine-tuning](#fine-tuning)
     - [Neuroscience Applications](#neuroscience-applications)
     - [Mixed-Curvature](#mixed-curvature)
+
+</details>
 
 # 1 Books
 ##  Topology
@@ -86,23 +88,23 @@
 - [Finsler Multi-Dimensional Scaling: Manifold Learning for Asymmetric Dimensionality Reduction and Embedding](https://arxiv.org/pdf/2503.18010) CVPR 2025
 
 #### Riemannian Metric Learning
-- [Learning Riemannian Metrics for Interpolating Animations](https://openreview.net/forum?id=u1erMPtujY) Openreview 2024
+- [Learning Riemannian Metrics for Interpolating Animations](https://openreview.net/forum?id=u1erMPtujY) OpenReview 2024
 - [Riemann<sup>2</sup>: Learning Riemannian Submanifolds from Riemannian Data](https://arxiv.org/pdf/2503.05540) AISTATS 2025
-- [Riemannian Metric Learning: Closer to You than You Imagine](https://arxiv.org/pdf/2503.05321#page=23.23) Arxiv 2025
+- [Riemannian Metric Learning: Closer to You than You Imagine](https://arxiv.org/pdf/2503.05321#page=23.23) arXiv 2025
 
 ### SPD Geometries
-- [Fast and Simple Computations on Tensors with Log-Euclidean Metrics](https://inria.hal.science/inria-00070423/document) Reaserch Report 2005
+- [Fast and Simple Computations on Tensors with Log-Euclidean Metrics](https://inria.hal.science/inria-00070423/document) Research Report 2005
 - [A Riemannian framework for tensor computing](https://link.springer.com/article/10.1007/s11263-005-3222-z) IJCV 2006
-- [Power Euclidean metrics for covariance matrices with application to diffusion tensor imaging](https://arxiv.org/abs/1009.3045) Arxiv 2010
+- [Power Euclidean metrics for covariance matrices with application to diffusion tensor imaging](https://arxiv.org/abs/1009.3045) arXiv 2010
 - [Riemannian geometry of symmetric positive definite matrices via Cholesky decomposition](https://doi.org/10.1137/18M1221084) SIMAX 2019
 - [On the Bures–Wasserstein distance between positive definite matrices](https://doi.org/10.1016/j.exmath.2018.01.002) Expositiones Mathematicae 2019
 - [The geometry of mixed-Euclidean metrics on symmetric positive definite matrices](https://doi.org/10.1016/j.difgeo.2022.101867) Differential Geometry and its Applications 2022
 - [O (n)-invariant Riemannian metrics on SPD matrices](https://doi.org/10.1016/j.laa.2022.12.009) Linear Algebra and its Applications 2023
 - [Learning with symmetric positive definite matrices via generalized Bures-Wasserstein geometry](https://doi.org/10.1007/978-3-031-38271-0_40) GSI 2023
 - [Adaptive Log-Euclidean Metrics for SPD Matrix Learning](https://arxiv.org/abs/2303.15477) TIP 2024
-- [Product Geometries on Cholesky Manifolds with Applications to SPD Manifolds](https://arxiv.org/abs/2407.02607) Arxiv 2024
-- [Wrapped Gaussian on the manifold of Symmetric Positive Definite Matrices](https://arxiv.org/abs/2502.01512) Arxiv 2025
-- [A Riemannian covariance for manifold-valued data](https://arxiv.org/abs/2410.06164) Arxiv 2025
+- [Product Geometries on Cholesky Manifolds with Applications to SPD Manifolds](https://arxiv.org/abs/2407.02607) arXiv 2024
+- [Wrapped Gaussian on the manifold of Symmetric Positive Definite Matrices](https://arxiv.org/abs/2502.01512) arXiv 2025
+- [A Riemannian covariance for manifold-valued data](https://arxiv.org/abs/2410.06164) arXiv 2025
 - [Learning to Normalize on the SPD Manifold under Bures-Wasserstein geometry](https://arxiv.org/abs/2504.00660) CVPR 2025
 
 ### Grassmannian
@@ -117,7 +119,7 @@
 ### Miscellaneous
 - [Weighted Frechet Means as Convex Combinations in Metric Spaces: Properties and Generalized Median Inequalities](https://arxiv.org/pdf/1204.2194) Statistics & Probability Letters 2012
 - [Geodesics, Parallel Transport & One-Parameter Subgroups for Diffeomorphic Image Registration](https://link.springer.com/article/10.1007/s11263-012-0598-4) IJCV 2012
-- [Mathematical Foundations of Geometric Deep Learning](https://arxiv.org/pdf/2508.02723) 2025
+- [Mathematical Foundations of Geometric Deep Learning](https://arxiv.org/pdf/2508.02723) arXiv 2025
 
 ## SPD Neural Networks
 - [A Riemannian Network for SPD Matrix Learning](https://arxiv.org/abs/1608.04233) AAAI 2017
@@ -128,7 +130,6 @@
 - [Riemannian Local Mechanism for SPD Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/25867) AAAI 2023
 - [SPD Manifold Deep Metric Learning for Image Set Classification](https://ieeexplore.ieee.org/document/10467142) TNNLS 2024
 - [Riemannian Multinomial Logistics Regression for SPD Neural Networks](https://arxiv.org/abs/2305.11288) CVPR 2024
-- [Exploring the Enigma of Neural Dynamics Through A Scattering-Transform Mixer Landscape for Riemannian Manifold](https://arxiv.org/abs/2405.16357) ICML 2024
 - [Schur's Positive-Definite Network: Deep Learning in the SPD cone with structure](https://openreview.net/forum?id=v1B4aet9ct) ICLR 2025
 
 ## Grassmannian Neural Networks
@@ -145,7 +146,7 @@
 - [Hyperbolic entailment cones for learning hierarchical embeddings](https://proceedings.mlr.press/v80/ganea18a.html) ICML 2018
 - [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/abs/1806.03417) ICML 2018
 - [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112) NeurIPS 2018
-- [Poincaré GloVe: Hyperbolic Word Embeddings](https://openreview.net/forum?id=Ske5r3AqK7)  ICLR 2019
+- [Poincaré GloVe: Hyperbolic Word Embeddings](https://openreview.net/forum?id=Ske5r3AqK7) ICLR 2019
 - [Hyperbolic Attention Networks](https://openreview.net/forum?id=rJxHsjRqFQ) ICLR 2019
 - [Continuous Hierarchical Representations with Poincaré Variational Auto-Encoders](https://arxiv.org/abs/1901.06033) NeurIPS 2019
 - [Hyperbolic Neural Networks++](https://arxiv.org/abs/2006.08210) ICLR 2021
@@ -161,8 +162,8 @@
 - [Hyperbolic Kernel Convolution: A Generic Framework](https://openreview.net/pdf?id=38SRU0BwXk) LOG 2024
 - [Hyperbolic Deep Learning in Computer Vision: A Survey](https://link.springer.com/article/10.1007/s11263-024-02043-5) IJCV 2024
 - [Lorentzian Residual Neural Networks](https://arxiv.org/abs/2412.14695) KDD 2025
-- [Cartan Networks: Group theoretical Hyperbolic Deep Learning](https://arxiv.org/pdf/2505.24353) 2025
-- [HyperCore: The Core Framework for Building Hyperbolic Foundation Models with Comprehensive Modules](https://arxiv.org/abs/2504.08912) 2025
+- [Cartan Networks: Group theoretical Hyperbolic Deep Learning](https://arxiv.org/pdf/2505.24353) arXiv 2025
+- [HyperCore: The Core Framework for Building Hyperbolic Foundation Models with Comprehensive Modules](https://arxiv.org/abs/2504.08912) arXiv 2025
 
 ## Riemannian Graph Neural Networks
 ### Matrix Manifolds Graph Neural Networks 
@@ -180,13 +181,12 @@
 - [A Mixed-Curvature Graph Diffusion Model](https://dl.acm.org/doi/abs/10.1145/3627673.3679708?casa_token=AeZEppU7riIAAAAA:cie2_B_3MR3ut6RmJ1oHBxb85_6OP4g1HF3vXLLdzjqNLI8usy2i7N_eKeR0Rywy6x71P0uuwzw) CIKM 2024
 - [Pioneer: Physics-informed Riemannian Graph ODE for Entropy-increasing Dynamics](https://arxiv.org/abs/2502.03251) AAAI 2025
 - [RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry](https://arxiv.org/abs/2502.03251) WWW 2025
-- [Hyperbolic Deep Learning for Foundation Models: A Survey](https://arxiv.org/pdf/2507.17787) KDD 2025
 
 ## Riemannian Networks on General Geometries
 - [Dilated Convolutional Neural Networks for Sequential Manifold-valued Data](https://arxiv.org/abs/1910.02206) ICCV 2019
 - [A General Theory of Equivariant CNNs on Homogeneous Spaces](https://proceedings.neurips.cc/paper_files/paper/2019/file/b9cfe8b6042cf759dc4c0cccb27a6737-Paper.pdf) NeurIPS 2019
 - [ManifoldNet: A Deep Neural Network for Manifold-Valued Data With Applications](https://ieeexplore.ieee.org/document/9122448) TPAMI 2020
-- [ManifoldNorm: Extending normalizations on Riemannian Manifolds](https://arxiv.org/abs/2003.13869) Arxiv 2020
+- [ManifoldNorm: Extending normalizations on Riemannian Manifolds](https://arxiv.org/abs/2003.13869) arXiv 2020
 
 - [A Gyrovector Space Approach for Symmetric Positive Semi-definite Matrix Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870052.pdf) ECCV 2022
 - [The Gyro-Structure of Some Matrix Manifolds](https://openreview.net/forum?id=eyE9Fb2AvOT) NeurIPS 2022
@@ -197,9 +197,9 @@
 - [RMLR: Extending Multinomial Logistic Regression into General Geometries](https://arxiv.org/abs/2409.19433) NeurIPS 2024
 - [Gyrogroup Batch Normalization](https://openreview.net/forum?id=d1NWq4PjJW) ICLR 2025
 - [Neural Networks on Symmetric Spaces of Noncompact Type](https://openreview.net/forum?id=bwOndfohRK&noteId=XBiz6RG96t) ICLR 2025
-- [GyroAtt: A Gyro Attention Framework for Matrix Manifolds](https://openreview.net/forum?id=YcaFqY8LWD) Openreview 2025
+- [GyroAtt: A Gyro Attention Framework for Matrix Manifolds](https://openreview.net/forum?id=YcaFqY8LWD) OpenReview 2025
 
-- [Navigation through Non-Compact Symmetric Spaces: a mathematical perspective on Cartan Neural Networks](https://arxiv.org/pdf/2507.16871) 2025
+- [Navigation through Non-Compact Symmetric Spaces: a mathematical perspective on Cartan Neural Networks](https://arxiv.org/pdf/2507.16871) arXiv 2025
 
 ## Riemannian Generative Networks
 - [Riemannian score-based generative modelling](https://arxiv.org/abs/2202.02763) NeurIPS 2022
@@ -209,13 +209,13 @@
 - [Scaling Riemannian Diffusion Models](https://arxiv.org/abs/2310.20030) NeurIPS 2023
 - [Flow Matching on General Geometries](https://arxiv.org/abs/2302.03660) ICLR 2024
 - [Hyperbolic Geometric Latent Diffusion Model for Graph Generation](https://arxiv.org/abs/2405.03188) ICML 2024
-- [Generative Modeling on Lie Groups via Euclidean Generalized Score Matching](https://arxiv.org/abs/2502.02513) Arxiv 2025
+- [Generative Modeling on Lie Groups via Euclidean Generalized Score Matching](https://arxiv.org/abs/2502.02513) arXiv 2025
 
 ## Riemannian Optimal Transport
 
 - [Hyperbolic Wasserstein Distance for Shape Indexing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8637773) TPAMI 2019
 - [Sliced-Wasserstein on Symmetric Positive Definite Matrices for M/EEG Signals](https://proceedings.mlr.press/v202/bonet23a.html) ICML 2023
-- [Hyperbolic sliced-Wasserstein via geodesic and horospherical projections](https://proceedings.mlr.press/v221/bonet23a.html) ICMLW 2023
+- [Hyperbolic sliced-Wasserstein via geodesic and horospherical projections](https://proceedings.mlr.press/v221/bonet23a.html) ICML 2023 Workshop
 - [Spherical Sliced-Wasserstein](https://arxiv.org/abs/2206.08780) ICLR 2023
 - [Sliced-Wasserstein Distances and Flows on Cartan-Hadamard Manifolds](https://arxiv.org/abs/2403.06560) JMLR 2025
 
@@ -225,13 +225,13 @@
 ### Computer Vision
 
 #### Generative Models
-- Spherical Manifold Guided Diffusion Model for Panoramic Image Generation CVPR 2025
+- [Spherical Manifold Guided Diffusion Model for Panoramic Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Spherical_Manifold_Guided_Diffusion_Model_for_Panoramic_Image_Generation_CVPR_2025_paper.html) CVPR 2025
 
 #### Others
 - [HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations](https://arxiv.org/abs/2303.06242) ICLR 2023
 - [Hyperbolic learning with synthetic captions for open-world detection](https://arxiv.org/abs/2404.05016) CVPR 2024
 - [Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction](https://openaccess.thecvf.com//content/WACV2025/papers/Zaier_Geometry-Aware_Deep_Learning_for_3D_Skeleton-Based_Motion_Prediction_WACV_2025_paper.pdf) WACV 2025
-- Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation CVPR 2025
+- [Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.html) CVPR 2025
 - [Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection](https://www.arxiv.org/abs/2503.00643) CVPR 2025
 - [Hyperbolic Category Discovery](https://www.arxiv.org/pdf/2504.06120) CVPR 2025
 - [Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](https://arxiv.org/pdf/2507.17402) ICCV 2025
@@ -252,13 +252,13 @@
 ### Large Models
 - [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV) ICLR 2025
 - [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/pdf/2503.12127) CVPR 2025
-- [HyperVLM: Hyperbolic Space Guided Vision Language Modeling for Hierarchical Multi-Modal Understanding](https://openreview.net/pdf?id=kNWsjLgb3I) CVPRW 2025
+- [HyperVLM: Hyperbolic Space Guided Vision Language Modeling for Hierarchical Multi-Modal Understanding](https://openreview.net/pdf?id=kNWsjLgb3I) CVPR 2025 Workshop
 - [Hyperbolic Deep Learning for Foundation Models: A Survey](https://arxiv.org/pdf/2507.17787) KDD 2025
 
 
 #### Fine-tuning
 - [Understanding Fine-tuning CLIP for Open-vocabulary Semantic Segmentation in Hyperbolic Space](https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Understanding_Fine-tuning_CLIP_for_Open-vocabulary_Semantic_Segmentation_in_Hyperbolic_Space_CVPR_2025_paper.pdf) CVPR 2025
-- [Hyperbolic Fine-tuning for Large Language Models](https://arxiv.org/abs/2410.04010) 2025
+- [Hyperbolic Fine-tuning for Large Language Models](https://arxiv.org/abs/2410.04010) arXiv 2025
 
 ### Neuroscience Applications
 - [MAtt: A Manifold Attention Network for EEG Decoding](https://openreview.net/forum?id=YG4Dg7xtETg) NeurIPS 2022
@@ -266,12 +266,11 @@
 - [SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG](https://arxiv.org/abs/2206.01323) NeurIPS 2024
 - [Deep Geodesic Canonical Correlation Analysis for Covariance-Based Neuroimaging Data](https://openreview.net/forum?id=PnR1MNen7u) ICLR 2024
 - [Exploring the Enigma of Neural Dynamics Through A Scattering-Transform Mixer Landscape for Riemannian Manifold](https://arxiv.org/abs/2405.16357) ICML 2024
-- [GeoMind: A Geometric Neural Network of State Space Model for Understanding Brain Dynamics on Riemannian Manifold](https://openreview.net/forum?id=YZdc7mTq7I) Openreview 2025
+- [GeoMind: A Geometric Neural Network of State Space Model for Understanding Brain Dynamics on Riemannian Manifold](https://openreview.net/forum?id=YZdc7mTq7I) OpenReview 2025
 - [SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG](https://openreview.net/forum?id=CoQw1dXtGb) ICLR 2025
 - [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0) ICLR 2025
-- [SPD Learning for Covariance-Based Neuroimaging Analysis: Perspectives, Methods, and Challenges](https://arxiv.org/abs/2504.18882) 2025
-- [Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry](https://arxiv.org/abs/2505.18193) 2025
-- [Riemannian High-Order Pooling for Brain Foundation Models](https://openreview.net/forum?id=66h1sCMm7F) ICLR 2026
+- [SPD Learning for Covariance-Based Neuroimaging Analysis: Perspectives, Methods, and Challenges](https://arxiv.org/abs/2504.18882) arXiv 2025
+- [Riemannian Flow Matching for Brain Connectivity Matrices via Pullback Geometry](https://arxiv.org/abs/2505.18193) arXiv 2025
 
 ### Mixed-Curvature
 - [Learning Mixed-Curvature Representations in Product Spaces](https://openreview.net/pdf?id=HJxeWnCcF7) ICLR 2019
@@ -287,6 +286,4 @@
 - [Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Galaxy_Walker_Geometry-aware_VLMs_For_Galaxy-scale_Understanding_CVPR_2025_paper.pdf) CVPR 2025
 - [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/pdf/2505.24722) NeurIPS 2025
 - [ProCLIP: Product Space Multimodal Contrastive Alignment](https://openreview.net/pdf?id=Sp3BrGpo5w) ICLR 2026 Workshop
-
-
 
