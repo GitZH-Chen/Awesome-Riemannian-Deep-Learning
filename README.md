@@ -38,7 +38,7 @@
     - [Computer Vision](#computer-vision)
       - [Generative Models](#generative-models)
       - [Others](#others)
-      - [High-order Pooling](#high-order-pooling)
+    - [High-order Pooling](#high-order-pooling)
     - [Large Models](#large-models)
       - [Fine-tuning](#fine-tuning)
     - [Neuroscience Applications](#neuroscience-applications)
@@ -286,4 +286,3 @@
 - [Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Galaxy_Walker_Geometry-aware_VLMs_For_Galaxy-scale_Understanding_CVPR_2025_paper.pdf) CVPR 2025
 - [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/pdf/2505.24722) NeurIPS 2025
 - [ProCLIP: Product Space Multimodal Contrastive Alignment](https://openreview.net/pdf?id=Sp3BrGpo5w) ICLR 2026 Workshop
-
